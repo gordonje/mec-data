@@ -1,0 +1,1361 @@
+<table cellspacing="0" cellpadding="3" rules="all" border="1" id="ContentPlaceHolder_ContentPlaceHolder1_grvExcel" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">MECID</th><th scope="col">Committee Name</th><th scope="col">Candidate Name</th><th scope="col">Party</th><th scope="col">Office Sought</th><th scope="col">Status</th>
+		</tr><tr>
+			<td>C191086</td><td>Aaliyah Bailey for Missouri</td><td>Aaliyah  Bailey</td><td>D</td><td>State Representative - District 64 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201423</td><td>Aaron C. Mais Campaign Fund</td><td>Aaron Mais</td><td>I</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201320</td><td>Aaron Piburn For Daviess County Assessor</td><td>Aaron Piburn</td><td>R</td><td>Assessor  - Daviess County</td><td>A</td>
+		</tr><tr>
+			<td>C190873</td><td>Alex Riley for State Representative </td><td>Alex Riley</td><td>R</td><td>State Representative - District 134 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201401 </td><td>Alvin R Thompson Committee to Elect; Rita Jacobs Treasurer</td><td>Alvin Thompson</td><td>R</td><td>Associate Commissioner  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>C201351E</td><td>Andrew Bolin </td><td>Andrew  Bolin</td><td>L</td><td>State Representative - District 83 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201194</td><td>Angela Thomas District 160</td><td>Angela Thomas</td><td>D</td><td>State Representative - District 160 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201437</td><td>Anne Landers for State Representative</td><td>Anne Landers</td><td>R</td><td>State Representative  - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201208E</td><td>Arnold J. Trembley</td><td>Arnold Trembley</td><td>L</td><td>County Council - District 2 - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A201433</td><td>Arron Robert Fredrickson</td><td>Arron Fredrickson</td><td>R</td><td>Sheriff  - Shelby County</td><td>A</td>
+		</tr><tr>
+			<td>C201353</td><td>ArtSchaaf4MO30</td><td>Arthur Schaaf</td><td>D</td><td>State Representative - District 30 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151004</td><td>Ashcroft For Missouri</td><td>John Ashcroft</td><td>R</td><td>Secretary of State  - Office of the Secretary of State</td><td>A</td>
+		</tr><tr>
+			<td>C201180</td><td>Ashley Aune for Missouri</td><td>Ashley Aune</td><td>D</td><td>State Representative - District 14 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171117</td><td>Baker For Missouri</td><td>Judy Baker</td><td>D</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C161086</td><td>Barnes For State Representative - Dist 28th</td><td>JEROME BARNES</td><td>D</td><td>State Representative - District 28 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161252</td><td>Beck For Missouri</td><td>Doug Beck</td><td>D</td><td>State Senator - District 1 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201360</td><td>Ben Young Committee to Elect </td><td>Benjamin Young</td><td>R</td><td>Associate Commissioner  - Iron County</td><td>A</td>
+		</tr><tr>
+			<td>C190949</td><td>Bennie Cook for State Representative</td><td>Bennie Cook</td><td>R</td><td>State Representative - District 142 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201326</td><td>Betteridge for House</td><td>William Betteridge</td><td>D</td><td>State Representative - District 48 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190754</td><td>Bill Hardwick for Missouri</td><td>Bill Hardwick</td><td>R</td><td>State Representative - District 122 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141233</td><td>Bill Kidd For Missouri</td><td>Bill Kidd</td><td>R</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201367E</td><td>Bill Slantz</td><td>Bill Slantz</td><td>L</td><td>Lieutenant Governor  - Office of the Lieutenant Governor</td><td>A</td>
+		</tr><tr>
+			<td>C121228</td><td>Bob Burns For Missouri</td><td>Bob Burns</td><td>D</td><td>County Council - District 6 - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C190859</td><td>Boggs for Missouri</td><td>Mitchell Boggs </td><td>R</td><td>State Representative - District 157 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151208</td><td>Boone Countians For Fred Parry</td><td>FRED PARRY</td><td>R</td><td>Associate Commissioner - District 1 (Southern) - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>C191018</td><td>Boyd For Missouri</td><td>John Boyd</td><td>R</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151206</td><td>BOYER FOR ASSESSOR</td><td>BOB BOYER</td><td>R</td><td>Assessor  - Jefferson County</td><td>A</td>
+		</tr><tr>
+			<td>A201093</td><td>Brad Stinson for Sheriff</td><td>Brad Stinson</td><td>R</td><td>Sheriff  - Ralls County</td><td>A</td>
+		</tr><tr>
+			<td>A201505</td><td>Bradley Miller for Public Administrator</td><td>Bradley  Miller</td><td>R</td><td>Public Administrator  - Wayne County</td><td>A</td>
+		</tr><tr>
+			<td>A190892</td><td>Brian Wingbermuehle for Missouri</td><td>Brian  Wingbermuehle</td><td>D</td><td>Committeeman - Meramec Township - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C201145</td><td>Bruce Sassmann Election Committee</td><td>Bruce  Sassmann</td><td>R</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190977</td><td>Buchheit-Courtway for Missouri</td><td>Cyndi Buchheit-Courtway</td><td>R</td><td>State Representative - District 115 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201155</td><td>Burgess 4 Missouri</td><td>Terry Burgess</td><td>D</td><td>State Representative - District 113 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201479</td><td>Calvin J Troxell for Coroner</td><td>Calvin Troxell</td><td>R</td><td>Coroner  - Bollinger County</td><td>A</td>
+		</tr><tr>
+			<td>C201263E</td><td>Cameron Pack</td><td>Cameron  Pack</td><td>L</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201388</td><td>Campaign to Elect Daniel Karam</td><td>Daniel Karam</td><td>G</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201313</td><td>Campaign to Elect Jim Marcum</td><td>Jim Marcum</td><td>R</td><td>Associate Commissioner  - Pettis County</td><td>A</td>
+		</tr><tr>
+			<td>A201459</td><td>Campaign to Re-Elect Gary W. Hicks Phelps County Commissioner</td><td>Gary Hicks</td><td>R</td><td>Associate Commissioner  - Phelps County</td><td>A</td>
+		</tr><tr>
+			<td>C201225</td><td>Canady for Missouri</td><td>Alissia  Canady</td><td>D</td><td>Lieutenant Governor  - Office of the Lieutenant Governor</td><td>A</td>
+		</tr><tr>
+			<td>A201451</td><td>Carl Bettels for Assessor</td><td>Carl Bettels</td><td>R</td><td>Assessor  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>C201259E</td><td>Carl Herman Freese</td><td>Carl Freese</td><td>L</td><td>Secretary of State  - Office of the Secretary of State</td><td>A</td>
+		</tr><tr>
+			<td>A201490</td><td>Carolan for Commissioner</td><td>Karen Carolan</td><td>D</td><td>Associate Commissioner  - Adair County</td><td>A</td>
+		</tr><tr>
+			<td>C201480</td><td>Casey for Commissioner</td><td>John Casey</td><td>R</td><td>Associate Commissioner  - Texas County</td><td>A</td>
+		</tr><tr>
+			<td>C191056</td><td>ChadPerkins4Missouri</td><td>Chad Perkins</td><td>R</td><td>State Representative - District 40 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190882</td><td>Chris Brown for Missouri House</td><td>Chris Brown</td><td>R</td><td>State Representative - District 16 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201290</td><td>Chris Hager for Missouri</td><td>Chris Hager</td><td>D</td><td>State Representative - District 34 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190757</td><td>Cindy Slimp For The People</td><td>Cindy Slimp</td><td>D</td><td>State Representative - District 133 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190968</td><td>Citizens 4 Dr. Lisa Thomas</td><td>Lisa Thomas</td><td>R</td><td>State Representative - District 124 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A190887</td><td>Citizens for Aaron Wilson</td><td>Aaron  Wilson</td><td>R</td><td>Sheriff  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>C201115</td><td>Citizens for Annette Turnbaugh</td><td>Annette Turnbaugh</td><td>D</td><td>State Representative - District 37 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190993</td><td>Citizens for Atchison </td><td>Darrell  Atchison</td><td>R</td><td>State Representative - District 153 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A151151</td><td>CITIZENS FOR BILL PUETT</td><td>BILL PUETT</td><td>R</td><td>Sheriff  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C171106</td><td>Citizens For Brad Hudson</td><td>Bradley Hudson</td><td>R</td><td>State Representative - District 138 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191080</td><td>Citizens for Bridget Walsh Moore</td><td>Bridget Moore</td><td>D</td><td>State Representative - District 93 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151209</td><td>Citizens For Cheri Toalson Reisch</td><td>CHERI REISCH</td><td>R</td><td>State Representative - District 44 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201312</td><td>Citizens for Colby Murphy</td><td>Colby Murphy</td><td>D</td><td>State Representative - District 10 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201434</td><td>Citizens for Coyne</td><td>James Coyne</td><td>W</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C151099</td><td>CITIZENS FOR CRYSTAL QUADE</td><td>CRYSTAL QUADE</td><td>D</td><td>State Representative - District 132 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161140</td><td>Citizens For Dan Stacy</td><td>Dan Stacy</td><td>R</td><td>State Representative - District 31 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C051139</td><td>Citizens For Darrell Missey</td><td>DARRELL MISSEY</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>A201375</td><td>Citizens for David Gall</td><td>David Gall</td><td>R</td><td>Treasurer  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C201140</td><td>Citizens for David Martin</td><td>David Martin</td><td>R</td><td>State Senator - District 9 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C191060</td><td>Citizens for Dean VanSchoiack</td><td>Dean VanSchoiack</td><td>R</td><td>State Representative - District 9 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201439</td><td>Citizens for Dee Marquez</td><td>Dewanna Marquez</td><td>D</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151169</td><td>Citizens For Derek Grier</td><td>Derek Grier</td><td>R</td><td>State Representative - District 100 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201323</td><td>Citizens For Derges</td><td>Tricia Derges</td><td>R</td><td>State Representative - District 140 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131143</td><td>CITIZENS FOR DOGAN</td><td>SHAMED DOGAN</td><td>R</td><td>State Representative - District 98 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C011182</td><td>Citizens For Donna Baringer</td><td>Donna Baringer</td><td>D</td><td>State Representative - District 82 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201409</td><td>Citizens For Doug Lensing</td><td>Siegfried Lensing</td><td>R</td><td>Associate Commissioner  - Montgomery County</td><td>A</td>
+		</tr><tr>
+			<td>C131144</td><td>CITIZENS FOR EGGLESTON</td><td>J EGGLESTON</td><td>R</td><td>State Representative - District 2 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121052</td><td>Citizens For Elaine Gannon</td><td>Elaine Gannon</td><td>R</td><td>State Senator - District 3 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201242</td><td>Citizens For Erick Billups </td><td>Erick  Billups</td><td>R</td><td>Sheriff  - Chariton County</td><td>A</td>
+		</tr><tr>
+			<td>C180062</td><td>Citizens For Falkner</td><td>William Falkner III</td><td>R</td><td>State Representative - District 10 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161093</td><td>Citizens For Gretchen Bangert</td><td>Gretchen Bangert</td><td>D</td><td>State Representative - District 69 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180467</td><td>Citizens For Griesheimer</td><td>Aaron Griesheimer</td><td>R</td><td>State Representative - District 61 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C091054</td><td>CITIZENS FOR HINSON</td><td>DAVE HINSON</td><td>R</td><td>Associate Commissioner - District 2 - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>C081024</td><td>Citizens For Hoskins</td><td>DENNY HOSKINS</td><td>R</td><td>State Senator - District 21 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C171245</td><td>Citizens For Jeff Coleman</td><td>Jeff  Coleman</td><td>R</td><td>State Representative - District 32 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A161533</td><td>CITIZENS FOR JEFF HOELSCHER</td><td>JEFF HOELSCHER</td><td>R</td><td>Associate Commissioner - Eastern - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>C201472</td><td>Citizens For Jeremy Gundel</td><td>Jeremy Gundel</td><td>W</td><td>Lieutenant Governor  - Office of the Lieutenant Governor</td><td>A</td>
+		</tr><tr>
+			<td>C071102</td><td>Citizens For Jim Arnott</td><td>JIM ARNOTT</td><td>R</td><td>Sheriff  - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>C131160</td><td>Citizens For Judge Koeppen</td><td>AARON KOEPPEN</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>A201397</td><td>Citizens for Katie Smith</td><td>Kathryn  Smith</td><td>R</td><td>Assessor  - Warren County</td><td>A</td>
+		</tr><tr>
+			<td>C180057</td><td>Citizens For Lakeysha Bosley</td><td>Lakeysha Bosley</td><td>D</td><td>State Representative - District 79 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180596</td><td>Citizens For Lovasco</td><td>Tony Lovasco</td><td>R</td><td>State Representative - District 64 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201170</td><td>Citizens for MacLaughlin</td><td>Brad MacLaughlin</td><td>R</td><td>Associate Commissioner  - Lafayette County</td><td>A</td>
+		</tr><tr>
+			<td>C190887</td><td>Citizens for Megan Thompson</td><td>Megan Thompson</td><td>R</td><td>Associate Commissioner - Eastern District - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C191050</td><td>Citizens for Mentz</td><td>Dawn Mentz</td><td>R</td><td>Assessor  - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>A200971</td><td>Citizens for Mike Kirn</td><td>Michael Kirn</td><td>R</td><td>Sheriff  - Phelps County</td><td>T</td>
+		</tr><tr>
+			<td>C121054</td><td>Citizens For Morris</td><td>Lynn Morris</td><td>R</td><td>Associate Commissioner - Eastern District  - Christian County</td><td>A</td>
+		</tr><tr>
+			<td>C180026</td><td>Citizens For Murphy</td><td>James Murphy</td><td>R</td><td>State Representative - District 94 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191039</td><td>Citizens for Nance</td><td>Robert  Nance</td><td>R</td><td>Treasurer  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C161042</td><td>Citizens For Nathan Tate</td><td>Nathan Tate</td><td>R</td><td>State Representative - District 119 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190842</td><td>Citizens for Owen</td><td>Bill Owen</td><td>R</td><td>State Representative - District 131 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171215</td><td>Citizens For Pelton</td><td>Steve Pelton</td><td>R</td><td>Sheriff  - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>C191081</td><td>Citizens for Phifer</td><td>Barbara Phifer</td><td>D</td><td>State Representative - District 90 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190948</td><td>Citizens for Rasheen Aldridge</td><td>Rasheen Aldridge</td><td>D</td><td>State Representative - District 78 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180713</td><td>Citizens For Raymond Lampert</td><td>Raymond Lampert</td><td>D</td><td>State Representative - District 137 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201166</td><td>Citizens for Ron Copeland</td><td>Ronald Copeland</td><td>R</td><td>State Representative - District 143 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190846</td><td>Citizens for Schwadron</td><td>Adam Schwadron</td><td>R</td><td>State Representative - District 106 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201429</td><td>Citizens for Sean Pouche</td><td>Sean Pouche</td><td>R</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131112</td><td>Citizens For Shane Roden</td><td>SHANE RODEN</td><td>R</td><td>State Representative - District 111 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A190799</td><td>Citizens for Sheriff Harrell</td><td>Richard  Harrell</td><td>R</td><td>Sheriff  - Lincoln County</td><td>A</td>
+		</tr><tr>
+			<td>C171365</td><td>Citizens For Simmons</td><td>John Simmons</td><td>R</td><td>State Representative - District 109 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A151004</td><td>Citizens For Stumpe</td><td>Brian Stumpe</td><td>R</td><td>Associate Circuit Judge  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>C190786</td><td>Citizens For Theresa Schmitt</td><td>Theresa Schmitt</td><td>D</td><td>State Representative - District 120 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201108</td><td>Citizens for Tim Taylor</td><td>Tim Taylor</td><td>R</td><td>State Representative - District 48 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C071342</td><td>Citizens For Tishaura O Jones</td><td>Tishaura  Jones</td><td>D</td><td>Treasurer  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C190966</td><td>Citizens for Todd Boland</td><td>Todd Boland</td><td>R</td><td>Associate Commissioner - District 1 - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>A201272</td><td>Citizens for Trevor Place, Committee to elect Trevor Place</td><td>Trevor  Place</td><td>R</td><td>Sheriff  - Harrison County</td><td>A</td>
+		</tr><tr>
+			<td>A201122</td><td>Citizens for Vanover</td><td>Joe Vanover</td><td>R</td><td>Associate Commissioner  - Platte County</td><td>A</td>
+		</tr><tr>
+			<td>C190879</td><td>Citizens for Vernon Betts</td><td>Vernon Betts</td><td>D</td><td>Sheriff  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C190974</td><td>Citizens for Vicki Lorenz Englund</td><td>Vicki Englund</td><td>D</td><td>State Treasurer  - Office of the State Treasurer</td><td>A</td>
+		</tr><tr>
+			<td>C131055</td><td>Citizens For Wiemann</td><td>John Wiemann</td><td>R</td><td>State Representative - District 103 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201374</td><td>Citizens for Yolonda Yogi Yancie</td><td>Yolonda  Yogi Yancie</td><td>D</td><td>Committeewoman - Ward 18 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C151110</td><td>Citizens To Elect Alan Gray</td><td>ALAN GRAY</td><td>D</td><td>State Representative - District 75 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201225</td><td>Citizens to Elect Alfred &quot;Sonny&quot; Byerley for Wright County Sheriff</td><td>Alfred  Byerley </td><td>R</td><td>Sheriff  - Wright County</td><td>A</td>
+		</tr><tr>
+			<td>C190933</td><td>Citizens to Elect Angela Mosley, LLC</td><td>Angela Mosley</td><td>D</td><td>State Senator - District 13 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C190954</td><td>Citizens to Elect Bill Heisse</td><td>William Heisse</td><td>R</td><td>State Representative - District 92 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A161511</td><td>Citizens To Elect Bill King</td><td>WILLIAM KING</td><td>R</td><td>Associate Commissioner - District 1 - Adair County</td><td>A</td>
+		</tr><tr>
+			<td>C161072</td><td>Citizens To Elect Bruce Degroot</td><td>Bruce Degroot</td><td>R</td><td>State Representative - District 101 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201110</td><td>Citizens to Elect Carl Hefner Sheriff</td><td>Carl Hefner</td><td>R</td><td>Sheriff  - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>C201246</td><td>Citizens to Elect Charles Blair for Sheriff</td><td>Charles Blair</td><td>R</td><td>Sheriff  - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>A201085</td><td>Citizens to Elect Craig Allison Sheriff</td><td>Craig Allison</td><td>R</td><td>Sheriff  - Montgomery County</td><td>A</td>
+		</tr><tr>
+			<td>A201247</td><td>Citizens to Elect Dave Teeter</td><td>David Teeter</td><td>R</td><td>Associate Commissioner  - Montgomery County</td><td>A</td>
+		</tr><tr>
+			<td>C171068</td><td>Citizens To Elect Doug Richey</td><td>Doug Richey</td><td>R</td><td>State Representative - District 38 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201359</td><td>Citizens to Elect Jack Bush </td><td>Jack Bush</td><td>D</td><td>Associate Commissioner  - Monroe County</td><td>A</td>
+		</tr><tr>
+			<td>C161150</td><td>Citizens To Elect Jay Mosley LLC</td><td>Jermond Mosley</td><td>D</td><td>State Representative - District 68 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121334</td><td>Citizens To Elect Kimberly Gardner</td><td>KIMBERLY GARDNER</td><td>D</td><td>Circuit Attorney  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C190919</td><td>Citizens to Elect Kurtis Gregory</td><td>Kurtis Gregory</td><td>R</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121103</td><td>CITIZENS TO ELECT MARY JO STRAATMANN</td><td>MARY  STRAATMANN</td><td>D</td><td>Public Administrator  - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>A201305</td><td>Citizens to Elect Melinda James for Assessor</td><td>Melinda James</td><td>R</td><td>Assessor  - Monroe County</td><td>A</td>
+		</tr><tr>
+			<td>A201575</td><td>Citizens to Elect Michael Galba</td><td>Michael  Galba</td><td>&nbsp;</td><td>Council Person  - City of St. Charles</td><td>A</td>
+		</tr><tr>
+			<td>C091155</td><td>Citizens To Elect Mike Kehoe</td><td>Mike Kehoe</td><td>R</td><td>Lieutenant Governor  </td><td>A</td>
+		</tr><tr>
+			<td>C190944</td><td>Citizens to Elect Mike Person</td><td>Michael Person</td><td>D</td><td>State Representative - District 74 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201109</td><td>Citizens to Elect Neil Smith</td><td>Neil Smith</td><td>D</td><td>State Representative - District 67 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201460</td><td>Citizens To Elect Parn</td><td>Kjersten Parn</td><td>R</td><td>Coroner  - Linn County</td><td>A</td>
+		</tr><tr>
+			<td>C190868</td><td>Citizens to Elect Tracy Baldwin</td><td>Tracy Baldwin</td><td>R</td><td>Assessor  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C180705</td><td>Citizens To Elect Will Akin For Sheriff</td><td>William Akin</td><td>R</td><td>Sheriff  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>A201393</td><td>Citizens to Re-Elect Drury Sheriff, Doug Dirnberger Treasurer</td><td>Wesley Drury</td><td>R</td><td>Sheriff  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201386</td><td>Citizens to Re-Elect Sheriff Steve Cox</td><td>Steve Cox</td><td>R</td><td>Sheriff  - Livingston County</td><td>T</td>
+		</tr><tr>
+			<td>A200957</td><td>Citizens with Matthew Sisul</td><td>Matthew Sisul</td><td>D</td><td>Committeeman - Ward 24 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A161129</td><td>CLAY CHISM FOR SHERIFF</td><td>CLAY CHISM</td><td>R</td><td>Sheriff  - Callaway County</td><td>A</td>
+		</tr><tr>
+			<td>C190998</td><td>Combs for Missouri</td><td>Rik  Combs </td><td>L</td><td>Governor  - Office of the Governor</td><td>A</td>
+		</tr><tr>
+			<td>A201258</td><td>Committee for Carla Essner for Assessor</td><td>Carla Essner</td><td>R</td><td>Assessor  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201573</td><td>Committee For Michael Hopper</td><td>Michael Hopper</td><td>D</td><td>Sheriff  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>A201467</td><td>Committee for Stephanie Gooden Northern District Commissioner</td><td>Stephanie Gooden</td><td>R</td><td>Associate Commissioner  - Saline County</td><td>A</td>
+		</tr><tr>
+			<td>C201123</td><td>Committee for Vernon Betts</td><td>Vernon  Betts</td><td>D</td><td>Committeeman - Ward 5 - City of St. Louis</td><td>T</td>
+		</tr><tr>
+			<td>C201173</td><td>Committee to Elect Allison Schoolcraft</td><td>Allison Schoolcraft</td><td>D</td><td>State Representative - District 131 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201169</td><td>Committee to Elect Angela Gibson</td><td>Angela  Gibson</td><td>R</td><td>Auditor  - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>C171225</td><td>Committee To Elect Ann Kelley</td><td>Ann Kelley</td><td>R</td><td>State Representative - District 127 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201280</td><td>Committee to Elect Ann Zimpfer</td><td>Ann Zimpfer</td><td>D</td><td>State Representative - District 95 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131128</td><td>Committee To Elect Becky Ruth</td><td>Becky Ruth</td><td>R</td><td>State Representative - District 114 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201111</td><td>Committee to Elect Bill Otto</td><td>Bill Otto</td><td>D</td><td>State Representative - District 65 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190934</td><td>Committee to Elect Bishop Davidson</td><td>Bishop  Davidson</td><td>R</td><td>State Representative - District 130 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180117</td><td>Committee To Elect Bob Bromley</td><td>Robert Bromley</td><td>R</td><td>State Representative - District 162 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201315</td><td>Committee to Elect Brad Chumbley</td><td>Brad Chumbley</td><td>R</td><td>Associate Commissioner  - Grundy County</td><td>T</td>
+		</tr><tr>
+			<td>A151134</td><td>COMMITTEE TO ELECT BRAD COLE FOR SHERIFF</td><td>BRAD COLE</td><td>R</td><td>Sheriff  - Christian County</td><td>A</td>
+		</tr><tr>
+			<td>A201092</td><td>Committee to Elect Brad Daniels for Sheriff</td><td>Brad Daniels</td><td>R</td><td>Sheriff  - Taney County</td><td>A</td>
+		</tr><tr>
+			<td>A201517</td><td>Committee to Elect Brandon Williams</td><td>Brandon Williams</td><td>R</td><td>Associate Commissioner  - Taney County</td><td>A</td>
+		</tr><tr>
+			<td>A201051</td><td>Committee to Elect Brent Campbell</td><td>Brent  Campbell</td><td>R</td><td>Sheriff  - Howell County</td><td>A</td>
+		</tr><tr>
+			<td>C201397</td><td>Committee to Elect Brian Lehman</td><td>Brian Lehman</td><td>R</td><td>Associate Commissioner - Eastern District  - Morgan County</td><td>A</td>
+		</tr><tr>
+			<td>A180619</td><td>Committee to Elect Britton Ferrell</td><td>Britton Ferrell</td><td>R</td><td>Sheriff  - Mississippi County</td><td>A</td>
+		</tr><tr>
+			<td>A201280</td><td>Committee to elect Calvin Wood for Howell County Northern Commissioner </td><td>Calvin  Wood</td><td>R</td><td>Associate Commissioner  - Howell County</td><td>T</td>
+		</tr><tr>
+			<td>A201454</td><td>Committee to Elect Campbell</td><td>John Campbell</td><td>R</td><td>Assessor  - Clark County</td><td>T</td>
+		</tr><tr>
+			<td>A201559</td><td>Committee to Elect Campbell</td><td>John Campbell</td><td>R</td><td>Assessor  - Clark County</td><td>A</td>
+		</tr><tr>
+			<td>A201532</td><td>Committee to Elect Carla Knowles Moore</td><td>Carla Moore</td><td>D</td><td>Collector-Treasurer  - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>A201432</td><td>Committee To Elect Carol Jarrell</td><td>Carol Jarrell</td><td>R</td><td>Associate Commissioner  - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>A201424</td><td>Committee to Elect Caroline Moore</td><td>Caroline Moore</td><td>D</td><td>Committeewoman - Ward 4 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C191079</td><td>Committee to Elect Carolyn McMahon</td><td>Carolyn McMahon</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201270</td><td>Committee to Elect Cathy Rinehart</td><td>Cathy Rinehart</td><td>D</td><td>Associate Commissioner - Western - Clay County</td><td>T</td>
+		</tr><tr>
+			<td>A201230</td><td>Committee To Elect Chet Owen, Eastern District Commissioner, Barbara Conway Owen, Treasurer</td><td>Chet Owen</td><td>R</td><td>Associate Commissioner  - DeKalb County</td><td>T</td>
+		</tr><tr>
+			<td>A201463</td><td>Committee to Elect Cindi Mullins Sheriff</td><td>Cindi Mullins</td><td>D</td><td>Sheriff  - Saline County</td><td>A</td>
+		</tr><tr>
+			<td>C201196</td><td>Committee To Elect Cindy Berne 2020</td><td>Cynthia Berne</td><td>D</td><td>State Representative - District 106 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201564</td><td>Committee to Elect Cindy Thompson</td><td>Cindy  Thompson</td><td>R</td><td>Associate Commissioner  - Vernon County</td><td>A</td>
+		</tr><tr>
+			<td>A201246</td><td>Committee To Elect Cooper For Sheriff</td><td>William Cooper</td><td>R</td><td>Sheriff  - New Madrid County</td><td>A</td>
+		</tr><tr>
+			<td>C201356</td><td>Committee to Elect Cynthia Nugent</td><td>Cynthia  Nugent</td><td>D</td><td>State Representative - District 115 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201409</td><td>Committee to Elect Dale Speelman</td><td>Dale Speelman</td><td>D</td><td>State Representative - District 156 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201549</td><td>Committee to Elect Danny Price</td><td>Danny Price</td><td>D</td><td>Associate Commissioner  - Chariton County</td><td>A</td>
+		</tr><tr>
+			<td>A201535</td><td>Committee to elect Darrell Pollock</td><td>Darrell Pollock</td><td>R</td><td>Associate Commissioner  - Laclede County</td><td>A</td>
+		</tr><tr>
+			<td>C180340</td><td>Committee To Elect David Evans</td><td>David Evans</td><td>R</td><td>State Representative - District 154 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201171</td><td>Committee to Elect David Grant</td><td>David  Grant</td><td>D</td><td>Committeeman  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A200941</td><td>Committee to Elect David Layman</td><td>David Layman</td><td>R</td><td>Associate Commissioner  - Laclede County</td><td>A</td>
+		</tr><tr>
+			<td>A201514</td><td>Committee to Elect David Powell Ray Co Eastern Commissioner</td><td>David Powell</td><td>R</td><td>Associate Commissioner  - Ray County</td><td>A</td>
+		</tr><tr>
+			<td>A201348</td><td>Committee to Elect Debbie Summers</td><td>Debbie  Summers</td><td>D</td><td>Assessor  - Washington County</td><td>A</td>
+		</tr><tr>
+			<td>A201311</td><td>Committee to Elect Diana Havens Collector-Treasurer</td><td>Diana Havens</td><td>R</td><td>Collector-Treasurer  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>A201389</td><td>Committee to Elect Don Abbett</td><td>Don Abbett</td><td>R</td><td>Associate Commissioner  - Miller County</td><td>A</td>
+		</tr><tr>
+			<td>A201349</td><td>Committee to Elect Donald Horn, Sheriff</td><td>Donald Horn</td><td>D</td><td>Sheriff  - Reynolds County</td><td>A</td>
+		</tr><tr>
+			<td>A201453</td><td>Committee to Elect Donna Barnett</td><td>Donna Barnett</td><td>R</td><td>Public Administrator  - Ripley County</td><td>A</td>
+		</tr><tr>
+			<td>A201049</td><td>Committee To Elect Donnie Horstman, Angie Frasher Treasurer</td><td>Donnie  Horstman</td><td>D</td><td>Associate Commissioner  - Callaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201469</td><td>Committee to Elect Donnie Kiefer Scott County Commissioner District 2</td><td>Donnie  Kiefer</td><td>D</td><td>Associate Commissioner  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201105</td><td>Committee to Elect Donnie Williams, Jr.</td><td>Don  Williams</td><td>R</td><td>Associate Commissioner  - Camden County</td><td>A</td>
+		</tr><tr>
+			<td>C171246</td><td>Committee To Elect Doug Clemens</td><td>Doug Clemens</td><td>D</td><td>State Representative - District 72 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A171047</td><td>Committee to Elect Doug Rader for Sheriff</td><td>Doug Rader</td><td>R</td><td>Sheriff  - Stone County</td><td>A</td>
+		</tr><tr>
+			<td>A201253</td><td>Committee to Elect Doyle Heiney</td><td>Doyle  Heiney</td><td>R</td><td>Associate Commissioner - District 2 - Texas County</td><td>A</td>
+		</tr><tr>
+			<td>C201288</td><td>Committee to Elect Edward McFowland</td><td>Edward McFowland</td><td>D</td><td>Committeeman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201098</td><td>Committee to Elect Eldon Grissom</td><td>Eldon  Grissom</td><td>R</td><td>Sheriff  - Adair County</td><td>T</td>
+		</tr><tr>
+			<td>C201231</td><td>Committee to Elect Elizabeth Mitchell</td><td>Elizabeth Mitchell</td><td>G</td><td>County Executive  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C101244</td><td>Committee To Elect Gail McCann Beatty</td><td>Gail Beatty</td><td>D</td><td>Committeewoman - Ward 16 - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>A201540</td><td>Committee to Elect Garry Bush Sheriff</td><td>Garry Bush</td><td>D</td><td>Sheriff  - Ray County</td><td>A</td>
+		</tr><tr>
+			<td>A201352</td><td>Committee To Elect Gary Emmons Eastern District Commissioner</td><td>Gary Emmons</td><td>R</td><td>Associate Commissioner  - Ripley County</td><td>A</td>
+		</tr><tr>
+			<td>A201405</td><td>Committee to Elect Gary M Larson County Commissioner District 2</td><td>Gary Larson</td><td>R</td><td>Associate Commissioner  - Dent County</td><td>A</td>
+		</tr><tr>
+			<td>A201221</td><td>Committee to Elect Glen Murrain</td><td>Glen Murrain</td><td>R</td><td>Associate Commissioner  - Linn County</td><td>A</td>
+		</tr><tr>
+			<td>A201560</td><td>Committee to Elect Greg Lee</td><td>Greg Lee</td><td>W</td><td>Public Administrator - District 16 - Pulaski County</td><td>A</td>
+		</tr><tr>
+			<td>A201345</td><td>Committee to Elect Hank Smythe</td><td>Harold Smythe</td><td>R</td><td>Associate Commissioner  - Stone County</td><td>T</td>
+		</tr><tr>
+			<td>A190909</td><td>Committee to Elect Harry Otto</td><td>Harry  Otto</td><td>R</td><td>Associate Commissioner - Western District  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>A201529</td><td>Committee to elect Hershel Shipman Sheriff</td><td>Hershel  Shipman</td><td>I</td><td>Sheriff  - Iron County</td><td>A</td>
+		</tr><tr>
+			<td>A201332</td><td>Committee to Elect Houghton</td><td>Gregory Houghton</td><td>D</td><td>Associate Commissioner  - Daviess County</td><td>A</td>
+		</tr><tr>
+			<td>C151068</td><td>Committee To Elect Houx</td><td>Dan Houx</td><td>R</td><td>State Representative - District 54 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171069</td><td>Committee to Elect Ian Mackey</td><td>Ian Mackey</td><td>D</td><td>State Representative - District 87 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201435</td><td>Committee to Elect J. Watson</td><td>John Watson</td><td>D</td><td>Committeeman - Ward 18 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C071082</td><td>Committee To Elect Jake Hummel</td><td>Jacob Hummel</td><td>D</td><td>Committeeman - Ward 11 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201425</td><td>Committee to Elect Jama M. Berry, Ozark County Assessor</td><td>Jama Berry</td><td>R</td><td>Assessor  - Ozark County</td><td>T</td>
+		</tr><tr>
+			<td>A201466</td><td>Committee to Elect James Gohagan</td><td>James Gohagan</td><td>R</td><td>Associate Commissioner  - Camden County</td><td>A</td>
+		</tr><tr>
+			<td>A201087</td><td>Committee to Elect James McCrary Cedar County Sheriff</td><td>James McCrary</td><td>R</td><td>Sheriff  - Cedar County</td><td>T</td>
+		</tr><tr>
+			<td>A201269</td><td>Committee to Elect James P. &quot;Jimmy&quot; Nash</td><td>James Nash</td><td>D</td><td>Treasurer  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C191030</td><td>Committee to Elect Jamie Burger HD # 148</td><td>Jamie Burger</td><td>R</td><td>State Representative - District 148 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201422</td><td>Committee to Elect Jamie L Homeyer</td><td>Jamie Homeyer</td><td>R</td><td>Assessor  - Dent County</td><td>A</td>
+		</tr><tr>
+			<td>A201534</td><td>Committee to Elect Jared Meyer</td><td>Jared Meyer</td><td>R</td><td>Associate Commissioner  - Chariton County</td><td>A</td>
+		</tr><tr>
+			<td>C141157</td><td>COMMITTEE TO ELECT JASON CHIPMAN</td><td>Jason Chipman</td><td>R</td><td>State Representative - District 120 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191008</td><td>Committee to Elect Jean Pretto</td><td>Emma Jean Pretto</td><td>D</td><td>State Representative - District 94 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201276</td><td>Committee to Elect Jeff Darnell</td><td>Jeffery Darnell</td><td>R</td><td>Public Administrator  - Butler County</td><td>A</td>
+		</tr><tr>
+			<td>A201212</td><td>Committee to Elect Joanna Jasper</td><td>Joanna Jasper</td><td>R</td><td>Public Administrator  - Taney County</td><td>A</td>
+		</tr><tr>
+			<td>A201223</td><td>Committee to Elect Joe Colston</td><td>Danny Colston</td><td>R</td><td>Sheriff  - Monroe County</td><td>A</td>
+		</tr><tr>
+			<td>A201148</td><td>Committee to Elect Joey Auxier for Phelps County Commissioner</td><td>Joey  Auxier</td><td>R</td><td>Associate Commissioner  - Phelps County</td><td>A</td>
+		</tr><tr>
+			<td>C180080</td><td>Committee To Elect John Black</td><td>John Black</td><td>R</td><td>State Representative - District 137 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201365</td><td>Committee to Elect John Trenshaw</td><td>John Trenshaw</td><td>R</td><td>Associate Commissioner  - Osage County</td><td>T</td>
+		</tr><tr>
+			<td>A171088</td><td>Committee to Elect John Wheeler</td><td>John Wheeler</td><td>R</td><td>Sheriff  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>A201218</td><td>Committee to Elect Josh Speakman</td><td>Joshua  Speakman</td><td>R</td><td>Collector-Treasurer  - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>C201441</td><td>Committee to Elect Joshua Shackles</td><td>Joshua Shackles Shackles</td><td>D</td><td>State Representative - District 161 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191026</td><td>Committee to Elect Judge Brittney R Smith</td><td>Brittney Smith</td><td>R</td><td>Associate Circuit Judge  - St. Charles County</td><td>A</td>
+		</tr><tr>
+			<td>A201217</td><td>Committee to Elect Junior Muehring</td><td>John Muehring</td><td>R</td><td>Associate Commissioner  - Ralls County</td><td>A</td>
+		</tr><tr>
+			<td>C201319</td><td>Committee to Elect Karen Planalp</td><td>Karen Planalp</td><td>D</td><td>State Representative - District 9 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201198</td><td>Committee to Elect Keith Whiteside</td><td>Randall Whiteside</td><td>R</td><td>Associate Commissioner  - Ripley County</td><td>A</td>
+		</tr><tr>
+			<td>A201267</td><td>Committee to Elect Kelsey Westerhold Public Administrator</td><td>Kelsey Westerhold</td><td>R</td><td>Public Administrator  - Vernon County</td><td>T</td>
+		</tr><tr>
+			<td>C171130</td><td>Committee To Elect Keri Ingle</td><td>Keri Ingle</td><td>D</td><td>State Representative - District 35 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201390</td><td>Committee to Elect Kris Daniel</td><td>Kris Daniel</td><td>D</td><td>Associate Commissioner  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>A201167</td><td>Committee to Elect Larry Adams Jr for Daviess County Sheriff</td><td>Larry Adams</td><td>R</td><td>Sheriff  - Daviess County</td><td>A</td>
+		</tr><tr>
+			<td>A201523</td><td>Committee to Elect Larry Fish Clinton Co Sheriff</td><td>Larry Fish</td><td>R</td><td>Sheriff  - Clinton County</td><td>A</td>
+		</tr><tr>
+			<td>A201544</td><td>Committee to Elect Larry G. Berry </td><td>Larry  Berry</td><td>R</td><td>Associate Commissioner - Southern - Benton County</td><td>A</td>
+		</tr><tr>
+			<td>A201420</td><td>Committee to Elect Larry Hacker, Jana Rosier, Treasurer</td><td>Larry Hacker</td><td>D</td><td>Associate Commissioner  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>A201474</td><td>Committee to Elect Larry Pogue Jr.</td><td>Larry Pogue</td><td>D</td><td>Associate Commissioner  - Reynolds County</td><td>T</td>
+		</tr><tr>
+			<td>A201187</td><td>Committee to Elect Laura Smith</td><td>Laura Smith</td><td>R</td><td>Collector of Revenue  - Johnson County</td><td>A</td>
+		</tr><tr>
+			<td>A201321</td><td>Committee to Elect Laura Stumbaugh</td><td>Laura Stumbaugh</td><td>R</td><td>County Clerk  - Pike County</td><td>A</td>
+		</tr><tr>
+			<td>C131138</td><td>Committee To Elect Lauren Arthur</td><td>Lauren Arthur</td><td>D</td><td>State Senator - District 17 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201407</td><td>Committee to elect Layne Nance Western District Commissioner </td><td>Layne Nance </td><td>R</td><td>Associate Commissioner - Western District - Ozark County</td><td>T</td>
+		</tr><tr>
+			<td>A201525</td><td>Committee To Elect Linda Niendick, Neal Niendick, Treasurer</td><td>Linda Niendick</td><td>R</td><td>Public Administrator  - Lafayette County</td><td>A</td>
+		</tr><tr>
+			<td>C201313</td><td>Committee to Elect Lisa Rees</td><td>Lisa Rees</td><td>D</td><td>State Representative - District 103 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201251</td><td>Committee to Elect Lori Fuerst Public Administrator, Treasurer Terry Fuerst</td><td>Lori Fuerst</td><td>R</td><td>Public Administrator  - Pike County</td><td>T</td>
+		</tr><tr>
+			<td>A201569</td><td>Committee to Elect Mark Thompson</td><td>Mark Thompson</td><td>R</td><td>Associate Commissioner  - Adair County</td><td>A</td>
+		</tr><tr>
+			<td>C201240</td><td>Committee to Elect Marlene Terry</td><td>Marlene Terry</td><td>D</td><td>State Representative - District 66 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191001</td><td>Committee to Elect Marlon Anderson</td><td>Marlon Anderson</td><td>D</td><td>State Representative - District 76 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201236</td><td>Committee to Elect Martin for Sheriff</td><td>Cassidy Martin</td><td>R</td><td>Sheriff  - Ozark County</td><td>A</td>
+		</tr><tr>
+			<td>A201415</td><td>Committee to Elect Megan Stickley Public Administrator</td><td>Megan  Stickley</td><td>D</td><td>Public Administrator  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>A201492</td><td>Committee to Elect Michael A Wells</td><td>Michael Wells</td><td>D</td><td>Committeeman  - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>C201427</td><td>Committee to Elect Michael Dedic</td><td>Dennis Dedic</td><td>W</td><td>County Executive  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A201383</td><td>Committee to Elect Michael P Taylor</td><td>Michael Taylor</td><td>R</td><td>Coroner  - Webster County</td><td>A</td>
+		</tr><tr>
+			<td>C201134</td><td>Committee to Elect Michael Randazzo</td><td>Michael  Randazzo</td><td>R</td><td>Circuit Judge  </td><td>T</td>
+		</tr><tr>
+			<td>A201326</td><td>Committee to Elect Mike Nienhuis</td><td>Michael Nienhuis</td><td>D</td><td>Sheriff  - Morgan County</td><td>A</td>
+		</tr><tr>
+			<td>A201239</td><td>Committee to Elect Mitch Allen Sheriff</td><td>Mitchell Allen</td><td>R</td><td>Sheriff  - Caldwell County</td><td>A</td>
+		</tr><tr>
+			<td>A201465</td><td>Committee to Elect Monty Kisner</td><td>Monty Kisner</td><td>R</td><td>Associate Commissioner  - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>A201240</td><td>Committee to Elect Mosher for Sheriff</td><td>Jason Mosher</td><td>R</td><td>Sheriff  - Vernon County</td><td>A</td>
+		</tr><tr>
+			<td>C201236</td><td>Committee to Elect Neal Barnes</td><td>Neal Barnes</td><td>D</td><td>State Representative - District 56 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201537</td><td>Committee to Elect Neal Gerster</td><td>Neal Gerster</td><td>D</td><td>Associate Commissioner  - Vernon County</td><td>A</td>
+		</tr><tr>
+			<td>A201552</td><td>Committee to Elect Norman Dills</td><td>Norman Dills</td><td>R</td><td>Sheriff  - Morgan County</td><td>A</td>
+		</tr><tr>
+			<td>A201351</td><td>Committee to Elect O&#39;Bannon for Western District Commissioner</td><td>Marilyn O&#39;Bannon</td><td>R</td><td>Associate Commissioner  - Monroe County</td><td>A</td>
+		</tr><tr>
+			<td>C201406</td><td>Committee To Elect Pat Bellew</td><td>Patrick Bellew</td><td>C</td><td>State Representative - District 123 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180302</td><td>Committee To Elect Paula Brown</td><td>Paula Brown</td><td>D</td><td>State Representative - District 70 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201441</td><td>Committee to Elect R.C. Harlow</td><td>Raymond Harlow</td><td>D</td><td>Associate Commissioner  - Ralls County</td><td>A</td>
+		</tr><tr>
+			<td>A201257</td><td>Committee to Elect Randall L. Kleindienst, Shelly Zerr, Treasurer</td><td>Randall Kleindienst</td><td>R</td><td>Associate Commissioner  - Callaway County</td><td>A</td>
+		</tr><tr>
+			<td>C111142</td><td>COMMITTEE TO ELECT RANDEE KAISER SHERIFF</td><td>RANDEE KAISER</td><td>R</td><td>Sheriff  - Jasper County</td><td>A</td>
+		</tr><tr>
+			<td>C201189</td><td>Committee to Elect Randy Jones</td><td>Randy Jones</td><td>R</td><td>Public Administrator  - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>A201262</td><td>Committee to Elect Randy Strong Sheriff of Nodaway County</td><td>Randy Strong</td><td>R</td><td>Sheriff  - Nodaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201124</td><td>Committee to Elect Rick Lett Western Commissioner</td><td>Ricky Lett</td><td>R</td><td>Associate Commissioner  - McDonald County</td><td>T</td>
+		</tr><tr>
+			<td>C190932</td><td>Committee to Elect Rick Roeber to the 34th</td><td>Rick Roeber</td><td>R</td><td>State Representative - District 34 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171292</td><td>Committee To Elect Robert Sauls</td><td>Robert Sauls</td><td>D</td><td>State Representative - District 21 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201222</td><td>Committee to Elect Rocky Schumer</td><td>Ronald Schumer</td><td>I</td><td>Associate Commissioner  - Perry County</td><td>A</td>
+		</tr><tr>
+			<td>A201100</td><td>Committee to Elect Roger Fischer Western Dist. Commissioner</td><td>Roger Fischer</td><td>R</td><td>Associate Commissioner  - Callaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201527</td><td>Committee to Elect Sally Black </td><td>Sally Black</td><td>D</td><td>Assessor  - Daviess County</td><td>A</td>
+		</tr><tr>
+			<td>A161442</td><td>Committee To Elect Sandy Jung</td><td>Sandy Jung</td><td>R</td><td>Public Administrator  - Lincoln County</td><td>A</td>
+		</tr><tr>
+			<td>A190889</td><td>Committee to Elect Scott Eiler</td><td>Scott  Eiler</td><td>R</td><td>Sheriff  - Gasconade County</td><td>T</td>
+		</tr><tr>
+			<td>A180556</td><td>Committee to Elect Scott Lindsey Sheriff</td><td>Scott Lindsey</td><td>R</td><td>Sheriff  - Texas County</td><td>A</td>
+		</tr><tr>
+			<td>C091093</td><td>Committee To Elect Scott Lipke</td><td>Scott Lipke</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>A201447</td><td>Committee to Elect Scott Walk</td><td>Scott Walk</td><td>R</td><td>Associate Commissioner  - Nodaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201356</td><td>Committee to Elect Simpson for Sheriff</td><td>John  Simpson</td><td>R</td><td>Sheriff  - Barton County</td><td>T</td>
+		</tr><tr>
+			<td>A201195</td><td>Committee to Elect Steve Barnes</td><td>Steve Barnes</td><td>D</td><td>Associate Commissioner - Eastern District  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>A171050</td><td>Committee to Elect Steve Cheslik</td><td>Steve Cheslik</td><td>R</td><td>Treasurer  - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>A201147</td><td>Committee to Elect Steve Foster, Western District Commissioner</td><td>Steven Foster</td><td>R</td><td>Associate Commissioner  - Wayne County</td><td>A</td>
+		</tr><tr>
+			<td>A201562</td><td>Committee to Elect Ted Anderson </td><td>Ted Anderson</td><td>R</td><td>Associate Commissioner  - Cedar County</td><td>A</td>
+		</tr><tr>
+			<td>C201321</td><td>Committee to Elect Teresa Sykes for Collector/Treasurer Livingston County</td><td>Teresa Sykes</td><td>D</td><td>Collector-Treasurer  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>A201347</td><td>Committee to Elect Tina Garrett</td><td>Tina Garrett</td><td>R</td><td>Public Administrator  - Texas County</td><td>T</td>
+		</tr><tr>
+			<td>C061710</td><td>Committee To Elect Tom Flanigan</td><td>Tom Flanigan</td><td>R</td><td>Associate Commissioner - Eastern - Jasper County</td><td>A</td>
+		</tr><tr>
+			<td>A201565</td><td>Committee to Elect Tony Bethmann</td><td>Tony Bethmann</td><td>&nbsp;</td><td>Council Person  - City of St. Charles</td><td>A</td>
+		</tr><tr>
+			<td>A201306</td><td>Committee to Elect Tony G. Ritter</td><td>Tony Ritter</td><td>D</td><td>Associate Commissioner  - Ste. Genevieve County</td><td>A</td>
+		</tr><tr>
+			<td>A201094</td><td>Committee to elect Tony Helms</td><td>Tony Helms</td><td>R</td><td>Sheriff  - Camden County</td><td>A</td>
+		</tr><tr>
+			<td>A201319</td><td>Committee to Elect Tracy Foster</td><td>Tracy Foster</td><td>R</td><td>Assessor  - Pike County</td><td>A</td>
+		</tr><tr>
+			<td>A201489</td><td>Committee to Elect Trisha Clark Coroner</td><td>Trisha Clark</td><td>I</td><td>Coroner  - Howard County</td><td>A</td>
+		</tr><tr>
+			<td>A201499</td><td>Committee to Elect Vicky Fish Gentry County Public Administrator, Mary Noble Treasurer</td><td>Vicky Fish</td><td>R</td><td>Public Administrator  - Gentry County</td><td>A</td>
+		</tr><tr>
+			<td>C201090</td><td>Committee to Elect Wade Kiefer</td><td>Wade Kiefer</td><td>D</td><td>State Representative - District 12 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201470</td><td>Committee to Elect Wayne Blades</td><td>Carl Blades</td><td>R</td><td>Associate Commissioner  - Stone County</td><td>A</td>
+		</tr><tr>
+			<td>A200968</td><td>Committee to Elect Wesley Mobray</td><td>Wesley Mobray</td><td>R</td><td>Associate Commissioner - District 1 - Dent County</td><td>A</td>
+		</tr><tr>
+			<td>C180078</td><td>Committee to Elect Wiley Price IV</td><td>Wiley Price</td><td>D</td><td>State Representative - District 84 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190970</td><td>Committee to Elect Yolanda Young</td><td>Yolanda Young</td><td>D</td><td>State Representative - District 22 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201372</td><td>Committee to Elect Zane McCaslin</td><td>Zane McCaslin</td><td>R</td><td>Public Administrator  - Laclede County</td><td>A</td>
+		</tr><tr>
+			<td>C031191</td><td>Committee to Re-elect Carey for Sheriff</td><td>DWAYNE CAREY</td><td>D</td><td>Sheriff  - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>A201308</td><td>Committee to Re-Elect Christopher Woolery Assessor</td><td>Christopher  Woolery </td><td>R</td><td>Assessor  - Pettis County</td><td>A</td>
+		</tr><tr>
+			<td>A201245</td><td>Committee to Re-Elect Dan Bullock </td><td>Dan Bullock</td><td>R</td><td>Sheriff  - St. Francois County</td><td>T</td>
+		</tr><tr>
+			<td>A201476</td><td>Committee to re-elect Dennis Ziegenhorn Commissioner </td><td>Dennis Ziegenhorn</td><td>D</td><td>Associate Commissioner  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201487</td><td>Committee to Re-Elect Diane Thomsen, Mark Thomsen, Treasurer</td><td>Diane Thomsen</td><td>D</td><td>Public Administrator  - Nodaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201358</td><td>Committee to Re-Elect Eric King</td><td>Eric  King</td><td>R</td><td>Sheriff  - Oregon County</td><td>A</td>
+		</tr><tr>
+			<td>A201414</td><td>Committee to Re-elect Eric Knox</td><td>Eric Knox</td><td>&nbsp;</td><td>Sheriff  - Benton County</td><td>T</td>
+		</tr><tr>
+			<td>A201385</td><td>Committee to Re-Elect Everett Wolfe</td><td>Everett  Wolfe</td><td>R</td><td>Associate Commissioner - Southern - Vernon County</td><td>T</td>
+		</tr><tr>
+			<td>A201558</td><td>Committee to Re-Elect Jared J. Boast Associate Commissioner Dist 2</td><td>Jared Boast</td><td>R</td><td>Associate Commissioner  - Crawford County</td><td>A</td>
+		</tr><tr>
+			<td>A201340</td><td>Committee to Re-Elect Karen Matthews</td><td>Karen Matthews</td><td>R</td><td>Treasurer  - Christian County</td><td>A</td>
+		</tr><tr>
+			<td>A201483</td><td>Committee to Re-Elect Kellie J. Vestal</td><td>Kellie Vestal</td><td>R</td><td>Assessor  - Crawford County</td><td>A</td>
+		</tr><tr>
+			<td>A201392</td><td>Committee to Re-Elect Kim Lyne Pettis County Treasurer</td><td>Kimberly Lyne</td><td>R</td><td>Treasurer  - Pettis County</td><td>T</td>
+		</tr><tr>
+			<td>A201273</td><td>Committee to re-elect Kyle White </td><td>Kyle White</td><td>R</td><td>Associate Commissioner  - DeKalb County</td><td>A</td>
+		</tr><tr>
+			<td>A201539</td><td>Committee to Re-Elect Nancy Jo Jennings</td><td>Nancy  Jennings</td><td>R</td><td>Public Administrator  - Johnson County</td><td>A</td>
+		</tr><tr>
+			<td>A201331</td><td>Committee to Re-Elect Novak for Assessor</td><td>Mark Novak</td><td>R</td><td>Assessor  - Marion County</td><td>T</td>
+		</tr><tr>
+			<td>A200979</td><td>Committee to Re-elect Oberkrom for Sheriff</td><td>James Oberkrom</td><td>R</td><td>Sheriff  - Henry County</td><td>A</td>
+		</tr><tr>
+			<td>A201495</td><td>Committee to Re-Elect Patrick Mullins</td><td>Patrick Mullins</td><td>D</td><td>Associate Commissioner  - St. Francois County</td><td>A</td>
+		</tr><tr>
+			<td>A201298</td><td>Committee To Re-Elect Roger Bradley</td><td>Roger  Bradley</td><td>R</td><td>Associate Commissioner - North - Dallas County</td><td>A</td>
+		</tr><tr>
+			<td>A201493</td><td>Committee to re-elect Tim Davis Gentry County Sheriff, Amber Davis, Treasurer</td><td>Timothy  Davis</td><td>D</td><td>Sheriff  - Gentry County</td><td>A</td>
+		</tr><tr>
+			<td>A201275</td><td>Conklin For Coroner</td><td>Sidney Conklin</td><td>R</td><td>Coroner  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>A161497</td><td>Constituents For Karla May For Committee Woman</td><td>KARLA MAY</td><td>D</td><td>Committeewoman - Ward 26 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201530</td><td>Corbin Wainscott for Assessor</td><td>Corbin Wainscott</td><td>D</td><td>Assessor  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>A171348</td><td>Cotton Walker For Judge</td><td>Cotton Walker</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>A111062</td><td>Cox For Assessor</td><td>David Cox</td><td>R</td><td>Assessor  - Platte County</td><td>A</td>
+		</tr><tr>
+			<td>C180060</td><td>Craig Fishel For State Representative</td><td>Craig Fishel</td><td>R</td><td>State Representative - District 136 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201413</td><td>Crump 2020</td><td>Robert  Crump</td><td>R</td><td>State Representative - District 82 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190870</td><td>Cupps for House</td><td>Scott Cupps</td><td>R</td><td>State Representative - District 158 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201554</td><td>Dakota Elaine Hopp Campaign Fund</td><td>Dakota Hopp</td><td>W</td><td>Assessor  - Clark County</td><td>A</td>
+		</tr><tr>
+			<td>C201221</td><td>Daniel Zdrodowski for Circuit Attorney </td><td>Daniel Zdrodowski</td><td>R</td><td>Circuit Attorney  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201446</td><td>Danielle Mangogna for STL</td><td>Danielle Mangogna</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201419</td><td>Danny Boyd for Sheriff</td><td>Danny  Boyd</td><td>R</td><td>Sheriff  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>C180106</td><td>Danny Busick 4 Rural MO</td><td>Danny Busick</td><td>R</td><td>State Representative - District 3 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201362</td><td>Danny Larm For Western District Commissioner</td><td>Danny  Larm</td><td>R</td><td>Associate Commissioner - Western District - Cooper County</td><td>A</td>
+		</tr><tr>
+			<td>C201375E</td><td>Darren L Grant</td><td>Darren  Grant</td><td>R</td><td>State Representative - District 72 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201019</td><td>Darren White for Sheriff</td><td>Darren  White</td><td>D</td><td>Sheriff  - Nodaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201379</td><td>Darrin Brawley for Sheriff</td><td>Darrin Brawley</td><td>R</td><td>Sheriff  - Shannon County</td><td>T</td>
+		</tr><tr>
+			<td>C190922</td><td>Dave Gragg For Missouri</td><td>Dave Gragg</td><td>D</td><td>State Representative - District 130 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171327</td><td>Dave Griffith For State Representative</td><td>Dave Griffith</td><td>R</td><td>State Representative - District 60 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131158</td><td>Dave Marshak Election Committee</td><td>DAVE MARSHAK</td><td>R</td><td>Sheriff  - Jefferson County</td><td>A</td>
+		</tr><tr>
+			<td>C191065</td><td>David Lenihan for Senate.com</td><td>David Lenihan</td><td>R</td><td>State Senator - District 1 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C191005</td><td>Devine for Judge </td><td>Josh Devine</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>C201368E</td><td>Dewanna Dee Marquez</td><td>Dewanna  Marquez</td><td>D</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C171315</td><td>Dirk Deaton For Missouri</td><td>Dirk Deaton</td><td>R</td><td>State Representative - District 159 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201165</td><td>Dolan for Missouri</td><td>Rhonda Dolan</td><td>D</td><td>State Representative - District 31 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201230</td><td>Doll for Missouri</td><td>Johanna Doll</td><td>D</td><td>State Representative - District 83 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180199</td><td>Donald B Mayhew FSR</td><td>Donald Mayhew</td><td>R</td><td>State Representative - District 121 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201237E</td><td>Donnie Owens</td><td>Donnie Owens</td><td>D</td><td>State Senator - District 27 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C180170</td><td>Dottie Bailey For Missouri </td><td>Dorothy Bailey</td><td>R</td><td>State Representative - District 110 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201137</td><td>Dugal For Assessor</td><td>William Dugal</td><td>R</td><td>Assessor  - St. Francois County</td><td>T</td>
+		</tr><tr>
+			<td>C151102</td><td>Eigel For Missouri</td><td>William Eigel</td><td>R</td><td>State Senator - District 23 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C171176</td><td>Elect Ben Baker</td><td>Ben Baker</td><td>R</td><td>State Representative - District 160 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201265</td><td>Elect Hoellering </td><td>Clint Hoellering </td><td>R</td><td>Associate Commissioner  - Moniteau County</td><td>T</td>
+		</tr><tr>
+			<td>C201228</td><td>Elect Luke Barber</td><td>Luke Barber</td><td>D</td><td>State Representative - District 89 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201209</td><td>Elect Raymond Kinney</td><td>Raymond Kinney</td><td>D</td><td>State Senator - District 31 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201452</td><td>Elect Venable</td><td>Paul Venable</td><td>C</td><td>Secretary of State - Missouri - Office of the Secretary of State</td><td>A</td>
+		</tr><tr>
+			<td>A201291</td><td>Elect Wooldridge</td><td>Wendy  Wooldridge</td><td>D</td><td>Public Administrator  - Cooper County</td><td>A</td>
+		</tr><tr>
+			<td>C190807</td><td>Emily Weber For Missouri</td><td>Emily Weber</td><td>D</td><td>State Representative - District 24 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201235</td><td>Empower Missourians Hailey</td><td>Aaron Hailey</td><td>D</td><td>State Representative - District 163 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191002</td><td>Faleti For Missouri</td><td>Yinka Faleti</td><td>D</td><td>Secretary of State  - Office of the Secretary of State</td><td>A</td>
+		</tr><tr>
+			<td>C180678</td><td>Families For Kimberly-Ann Collins</td><td>Kimberly Collins</td><td>D</td><td>State Representative - District 77 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190940</td><td>Fiala for Missouri</td><td>Terrence Fiala</td><td>D</td><td>State Representative - District 6 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191025</td><td>Finneran for Missouri</td><td>Rich Finneran</td><td>D</td><td>Attorney General  </td><td>A</td>
+		</tr><tr>
+			<td>C121051</td><td>Fitzpatrick For Missouri</td><td>SCOTT FITZPATRICK</td><td>R</td><td>State Treasurer  - Office of the State Treasurer</td><td>A</td>
+		</tr><tr>
+			<td>C190984</td><td>Fogle for Missouri</td><td>Elizabeth Fogle</td><td>D</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201536</td><td>Friends &amp; Supporters of Kevin Bond</td><td>Kevin Bond</td><td>R</td><td>Sheriff  - Pettis County</td><td>A</td>
+		</tr><tr>
+			<td>A201286</td><td>Friends For Al Skalicky</td><td>Albert  Skalicky</td><td>D</td><td>Associate Commissioner  - Polk County</td><td>A</td>
+		</tr><tr>
+			<td>A201449</td><td>Friends For Brad Anders</td><td>Brad Anders</td><td>I</td><td>Sheriff  - Pettis County</td><td>A</td>
+		</tr><tr>
+			<td>C171124</td><td>Friends For Chris Dodson Dinkins</td><td>Chris Dinkins</td><td>R</td><td>State Representative - District 144 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141090</td><td>Friends For Chuck Basye</td><td>Charles  Basye</td><td>R</td><td>State Representative - District 47 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201303</td><td>Friends for Dorsett</td><td>Tony Dorsett</td><td>D</td><td>State Representative - District 117 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190905</td><td>Friends for Ed Lewis</td><td>Edwin Lewis</td><td>R</td><td>State Representative - District 6 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201309</td><td>Friends for Eric Holmes</td><td>Eric Holmes</td><td>R</td><td>State Representative - District 14 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A190867</td><td>Friends for Flake</td><td>Matthew Flake</td><td>R</td><td>Associate Commissioner - Northern District - Warren County</td><td>A</td>
+		</tr><tr>
+			<td>C161035</td><td>FRIENDS FOR FRANCIS</td><td>RICK FRANCIS</td><td>R</td><td>State Representative - District 145 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201478</td><td>Friends For Freeland</td><td>Elizabeth Freeland</td><td>D</td><td>Committeewoman  - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>C171076</td><td>Friends For Hardy Billington</td><td>Hardy Billington</td><td>R</td><td>State Representative - District 152 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141273</td><td>Friends For Jered Taylor</td><td>Jered Taylor</td><td>R</td><td>State Representative - District 139 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201101</td><td>Friends For John Hobbs</td><td>John Hobbs</td><td>R</td><td>Associate Commissioner  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>C190900</td><td>Friends for Rusty MacLachlan</td><td>Rusty MacLachlan</td><td>R</td><td>Associate Commissioner - District 1 - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>C121012</td><td>Friends For Travis Fitzwater</td><td>Travis Fitzwater</td><td>R</td><td>State Representative - District 49 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201207</td><td>Friends for Tristan Asbury</td><td>Tristan  Asbury</td><td>R</td><td>Associate Commissioner  - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>C191029</td><td>Friends For Vic Abundis</td><td>Victor Abundis</td><td>D</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180024</td><td>Friends For Windham</td><td>Kevin Windham</td><td>D</td><td>State Representative - District 85 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180718</td><td>Friends Of Adrian Plank</td><td>Adrian Plank</td><td>D</td><td>State Representative - District 47 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A171087</td><td>Friends of Alan Cook</td><td>Alan Cook</td><td>R</td><td>Associate Commissioner - District 1 - Newton County</td><td>A</td>
+		</tr><tr>
+			<td>C071030</td><td>Friends Of Andrew Koenig</td><td>Andrew Koenig</td><td>R</td><td>State Senator - District 15 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201357</td><td>Friends of Angie Schaefer</td><td>Angie Schaefer</td><td>D</td><td>State Representative - District 98 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201208</td><td>Friends of Annette Bertelsen for Buchanan County Public Administrator</td><td>Annette Bertelsen</td><td>R</td><td>Public Administrator  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C171393</td><td>Friends Of Barry Hovis</td><td>Barry  Hovis</td><td>R</td><td>State Representative - District 146 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C111215</td><td>Friends Of Caleb Rowden</td><td>CALEB ROWDEN</td><td>R</td><td>State Senator - District 19 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201256</td><td>Friends of Carl E. Rose</td><td>Carl  Rose</td><td>R</td><td>Coroner  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201475</td><td>Friends of Chad Farrow For Assessor</td><td>Chad Farrow</td><td>D</td><td>Assessor  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C161179</td><td>FRIENDS OF CHARLES GROETEKE</td><td>Charles Groeteke</td><td>R</td><td>County Council - District 4 - Jefferson County</td><td>A</td>
+		</tr><tr>
+			<td>A201188</td><td>Friends of Chris Class for Sheriff</td><td>Christopher Class</td><td>R</td><td>Sheriff  - Cooper County</td><td>A</td>
+		</tr><tr>
+			<td>C201217</td><td>Friends of Christine Hyman for Missouri</td><td>Christine  Hyman</td><td>D</td><td>State Representative - District 105 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201045</td><td>Friends of Cody Newman for Sheriff</td><td>Cody Newman</td><td>R</td><td>Sheriff  - Reynolds County</td><td>A</td>
+		</tr><tr>
+			<td>C151073</td><td>Friends Of Curtis Trent</td><td>Curtis Trent</td><td>R</td><td>State Representative - District 133 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201248</td><td>Friends of Dean Wilson for Assessor</td><td>Charles Wilson</td><td>R</td><td>Assessor  - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C141221</td><td>Friends Of Don Rone</td><td>Don Rone</td><td>R</td><td>State Representative - District 149 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201334</td><td>Friends of Dustin Boyer</td><td>Dustin Boyer</td><td>R</td><td>Sheriff  - Carter County</td><td>A</td>
+		</tr><tr>
+			<td>C180735</td><td>Friends Of Erica Hoffman</td><td>Erica Hoffman</td><td>D</td><td>State Representative - District 96 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161251</td><td>FRIENDS OF ERNIE TRAKAS</td><td>Ernie Trakas</td><td>R</td><td>County Council - District 6 - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A171164</td><td>Friends Of Estes For Assessor</td><td>Christopher Estes</td><td>R</td><td>Assessor  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>A201494</td><td>Friends of Gwen Reed</td><td>Gwendolyn Reed</td><td>D</td><td>Committeewoman  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C151179</td><td>Friends Of Hannah Kelly</td><td>Hannah Kelly</td><td>R</td><td>State Representative - District 141 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C111145</td><td>Friends Of Holly Rehder</td><td>HOLLY REHDER</td><td>R</td><td>State Senator - District 27 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A190869</td><td>Friends of Israel Baeza</td><td>Israel Baeza</td><td>R</td><td>Associate Commissioner - Eastern District - Pettis County</td><td>A</td>
+		</tr><tr>
+			<td>C171201</td><td>Friends Of Jeff Knight</td><td>Jeff Knight</td><td>R</td><td>State Representative - District 129 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201261</td><td>Friends of Jerry Adzima</td><td>Jerry Adzima</td><td>R</td><td>State Representative - District 70 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191024</td><td>Friends of John C Russell</td><td>John Russell</td><td>R</td><td>Associate Commissioner - District 2 - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>A161277</td><td>FRIENDS OF KAREN DIGH ALLEN</td><td>KAREN ALLEN</td><td>R</td><td>Public Administrator  - Callaway County</td><td>A</td>
+		</tr><tr>
+			<td>C190885</td><td>Friends of Kari L Chesney</td><td>Kari Chesney</td><td>D</td><td>State Representative - District 50 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201279</td><td>Friends of Keith A. Hoehn</td><td>Keith  Hoehn</td><td>R</td><td>Associate Commissioner  - Perry County</td><td>A</td>
+		</tr><tr>
+			<td>C131169</td><td>Friends Of Kip Kendrick</td><td>KIP KENDRICK</td><td>D</td><td>State Representative - District 45 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171146</td><td>Friends Of Lane Roberts</td><td>Lane Roberts</td><td>R</td><td>State Representative - District 161 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161210</td><td>Friends Of Mark Ellebracht</td><td>Mark Ellebracht</td><td>D</td><td>State Representative - District 17 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151060</td><td>Friends Of Martha Stevens</td><td>MARTHA STEVENS</td><td>D</td><td>State Representative - District 46 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180168</td><td>Friends Of Mary Elizabeth Coleman</td><td>Mary  Coleman</td><td>R</td><td>State Representative - District 97 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201268</td><td>Friends of Michael Burton</td><td>Michael Burton</td><td>D</td><td>State Representative - District 92 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191031</td><td>Friends of Michael Davis</td><td>Michael Davis</td><td>R</td><td>State Representative - District 56 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151237</td><td>Friends Of Nick Schroer</td><td>Nick Schroer</td><td>R</td><td>State Representative - District 107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201317</td><td>Friends of Nola Wood</td><td>Nola Wood</td><td>R</td><td>State Representative - District 36 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201437</td><td>Friends of Patrick Moynihan</td><td>Patrick Moynihan</td><td>D</td><td>Committeeman - Ward 23 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201427</td><td>Friends of Paul Koeper for County Commissioner</td><td>Paul  Koeper</td><td>&nbsp;</td><td>Associate Commissioner  - Cape Girardeau County</td><td>A</td>
+		</tr><tr>
+			<td>C171345</td><td>Friends Of Peggy McGaugh</td><td>Peggy McGaugh</td><td>R</td><td>State Representative - District 39 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151219</td><td>Friends Of Phil Christofanelli</td><td>Phil Christofanelli</td><td>R</td><td>State Representative - District 105 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A200953</td><td>Friends of Ralph Jobe</td><td>Ralph Jobe</td><td>R</td><td>Public Administrator  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>C171220</td><td>Friends Of Raychel Proudie</td><td>Raychel Proudie</td><td>D</td><td>State Representative - District 73 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C101216</td><td>Friends Of Renee Reuter</td><td>Renee  Reuter</td><td>R</td><td>County Council - District 2 - Jefferson County</td><td>A</td>
+		</tr><tr>
+			<td>C161160</td><td>Friends Of Richard Brown</td><td>Richard Brown</td><td>D</td><td>State Representative - District 27 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C101084</td><td>Friends Of Rick Brattin</td><td>Rick Brattin</td><td>R</td><td>State Senator - District 31 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C131147</td><td>Friends Of Rob Vescovo</td><td>ROB VESCOVO</td><td>R</td><td>State Representative - District 112 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171277</td><td>Friends Of Rodger L Reedy</td><td>Rodger Reedy</td><td>R</td><td>State Representative - District 57 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180126</td><td>Friends Of Ron Hicks</td><td>Ron Hicks</td><td>R</td><td>State Representative - District 102 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151158</td><td>Friends Of Rory Rowland</td><td>RORY ROWLAND</td><td>D</td><td>State Representative - District 29 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151129</td><td>FRIENDS OF RUSTY BLACK</td><td>RUSTY BLACK</td><td>R</td><td>State Representative - District 7 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A180582</td><td>Friends of Ruth Ann Dickerson for Sheriff</td><td>Ruth Dickerson</td><td>R</td><td>Sheriff  - Cape Girardeau County</td><td>T</td>
+		</tr><tr>
+			<td>C161082</td><td>Friends Of Sara Walsh</td><td>Sara Walsh</td><td>R</td><td>State Representative - District 50 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161154</td><td>Friends of Sarah Mills Rottgers</td><td>Sarah Rottgers</td><td>R</td><td>Public Administrator  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>A151160</td><td>Friends Of Scott Burnham</td><td>SCOTT BURNHAM</td><td>R</td><td>Associate Commissioner - Eastern - Buchanan County</td><td>A</td>
+		</tr><tr>
+			<td>C201272</td><td>Friends of Scott Cazadd</td><td>Scott Cazadd</td><td>R</td><td>State Representative - District 69 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201254</td><td>Friends of Shalonda Webb</td><td>Shalonda Webb</td><td>D</td><td>County Council  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C131176</td><td>FRIENDS OF SHAUL</td><td>DAN SHAUL</td><td>R</td><td>State Representative - District 113 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201197</td><td>Friends of Shumway</td><td>Susan Shumway</td><td>D</td><td>State Representative - District 108 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121365</td><td>FRIENDS OF STEVE FARMER</td><td>STEVE FARMER</td><td>R</td><td>Public Administrator  - Jefferson County</td><td>A</td>
+		</tr><tr>
+			<td>C161073</td><td>Friends Of Steve Helms</td><td>Steve Helms</td><td>R</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201317</td><td>Friends of Steve Jordan</td><td>Steve Jordan</td><td>R</td><td>Associate Commissioner - District 1 - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>C201161</td><td>Friends of Steve Lenivy</td><td>Steve Lenivy</td><td>D</td><td>Committeeman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C121089</td><td>Friends Of Sue Meredith</td><td>Susan Meredith</td><td>D</td><td>Committeewoman - Creve Coeur Township - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C171162</td><td>Friends Of Suzie Pollock</td><td>Suzie Pollock</td><td>R</td><td>State Representative - District 123 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190863</td><td>Friends of Terry Thompson</td><td>Terry Thompson</td><td>R</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190839</td><td>Friends of Trish Gunby</td><td>Trish Gunby</td><td>D</td><td>State Representative - District 99 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201287</td><td>Friends of Vanessa Carroll</td><td>Vanessa Carroll</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201417</td><td>Friends of Wavis Jordan</td><td>Wavis  Jordan</td><td>R</td><td>Coroner  - Cape Girardeau County</td><td>A</td>
+		</tr><tr>
+			<td>C101334</td><td>Friends Of Wayne Wallingford</td><td>A WALLINGFORD</td><td>R</td><td>State Representative - District 147 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191074</td><td>Friends of Willard Haley</td><td>Willard Haley</td><td>R</td><td>State Representative - District 58 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201278</td><td>Friends to Elect Brent Johnson</td><td>Brent Johnson</td><td>R</td><td>Assessor  - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>C191044</td><td>Friends to Elect Jim Kalberloh</td><td>James Kalberloh</td><td>R</td><td>State Representative - District 125 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A190899</td><td>Friends to Elect Justin Smith</td><td>Justin Smith</td><td>R</td><td>Associate Commissioner - Western District - Pulaski County</td><td>T</td>
+		</tr><tr>
+			<td>A201284</td><td>Friends to Elect Randy Smith Southside Commissioner</td><td>Randall Smith</td><td>R</td><td>Associate Commissioner  - St. Clair County</td><td>T</td>
+		</tr><tr>
+			<td>A201543</td><td>Friends to Re-Elect David Mapel</td><td>David Mapel</td><td>R</td><td>Associate Commissioner  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>A201229</td><td>Gene Robbins For Southern Commissioner</td><td>Evans Robbins</td><td>R</td><td>Associate Commissioner  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>A201381</td><td>Geri Curtis for Livingston County Public Administrator</td><td>Geraldine Curtis</td><td>R</td><td>Public Administrator  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>C180744</td><td>Go West For Missouri</td><td>Richard West </td><td>R</td><td>State Representative - District 63 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201373</td><td>Graham for 139 MO Dist Rep</td><td>Darlene Graham</td><td>D</td><td>State Representative - District 139 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201448</td><td>Graham For Sheriff 2020</td><td>Casey Graham</td><td>R</td><td>Sheriff  - Bollinger County</td><td>A</td>
+		</tr><tr>
+			<td>C201144</td><td>Green for Circuit Judge</td><td>Daniel  Green</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>A161403</td><td>GREG D MULLINAX FOR CORONER COMMITTEE</td><td>GREG MULLINAX</td><td>R</td><td>Coroner  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>C141193</td><td>Gregory For Missouri</td><td>David Gregory</td><td>R</td><td>State Representative - District 96 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201563</td><td>Griffin For Northern Commissioner</td><td>Alvin Griffin</td><td>D</td><td>Associate Commissioner  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>C180094</td><td>Haden For State Representative</td><td>Kent Haden</td><td>R</td><td>State Representative - District 43 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180239</td><td>Haffner For Missouri</td><td>Mike Haffner</td><td>R</td><td>State Representative - District 55 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201100</td><td>Hammond for Judge</td><td>Michele Hammond</td><td>D</td><td>Associate Circuit Judge  - St. Charles County</td><td>A</td>
+		</tr><tr>
+			<td>C151076</td><td>Hannegan For State Representative</td><td>Tom Hannegan</td><td>R</td><td>State Representative - District 65 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161162</td><td>Henderson For Missouri</td><td>MIKE HENDERSON</td><td>R</td><td>State Representative - District 117 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131123</td><td>Hill For Missouri</td><td>JUSTIN HILL</td><td>R</td><td>State Representative - District 108 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190849</td><td>Hirth for Judge</td><td>Andy Hirth</td><td>D</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>C201202</td><td>Hogan for Representative</td><td>Edwin Hogan</td><td>D</td><td>State Representative - District 126 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190858</td><td>Hurlbert for Missouri</td><td>Joshua Hurlbert</td><td>R</td><td>State Representative - District 12 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161001</td><td>Ingrid Burnett For Missouri</td><td>INGRID BURNETT</td><td>D</td><td>State Representative - District 19 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190903</td><td>Jacque Sample for Missouri</td><td>Jacque Sample</td><td>D</td><td>State Representative - District 44 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190960</td><td>James Williams for MO House 54</td><td>James Williams</td><td>D</td><td>State Representative - District 54 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201488</td><td>Janet Burlingame for County Commissioner</td><td>Janet Burlingame</td><td>D</td><td>Associate Commissioner - District 1 South - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>C201114</td><td>Janet Thompson for Boone County</td><td>Janet Thompson</td><td>D</td><td>Associate Commissioner - District 2 - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>A201555</td><td>Jarrett for Commissioner</td><td>Brenda Jarrett</td><td>D</td><td>Associate Commissioner  - Texas County</td><td>A</td>
+		</tr><tr>
+			<td>C201119</td><td>jasonbeanforsenate.com</td><td>Jason  Bean</td><td>R</td><td>State Senator - District 25 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C111110</td><td>JEAN PETERS BAKER FOR PROSECUTOR</td><td>Jean Baker</td><td>D</td><td>Prosecuting Attorney  - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>A201282</td><td>Jeff Burkett for Sheriff</td><td>Jeff  Burkett</td><td>R</td><td>Sheriff  - Iron County</td><td>A</td>
+		</tr><tr>
+			<td>C201257E</td><td>Jeff Coleman</td><td>Jeff Coleman</td><td>L</td><td>State Senator - District 13 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201378</td><td>Jeff Oswald for Sheriff</td><td>Jeffrey Oswald</td><td>R</td><td>Sheriff  - Howard County</td><td>A</td>
+		</tr><tr>
+			<td>A201566</td><td>Jeff Witt for Coroner Committee</td><td>Jeff Witt</td><td>I</td><td>Coroner  - Polk County</td><td>A</td>
+		</tr><tr>
+			<td>C190978</td><td>Jeremy Eden for Public Administrator</td><td>Jeremy Eden</td><td>D</td><td>Public Administrator  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C201232E</td><td>Jerome H. Bauer</td><td>Jerome  Bauer</td><td>G</td><td>Governor  - Office of the Governor</td><td>A</td>
+		</tr><tr>
+			<td>C201146</td><td>Jessica DeVoto For Missouri</td><td>Jessica DeVoto</td><td>D</td><td>State Representative - District 104 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201353</td><td>Jim Akers for Coroner</td><td>James  Akers</td><td>R</td><td>Coroner  - Butler County</td><td>A</td>
+		</tr><tr>
+			<td>C141146</td><td>Joe Adams For Missouri</td><td>Joe  Adams</td><td>D</td><td>State Representative - District 86 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201515</td><td>John Mitchell for Texas County</td><td>John Mitchell</td><td>D</td><td>Associate Commissioner  - Texas County</td><td>A</td>
+		</tr><tr>
+			<td>C201133</td><td>John N. Castellano III for Sheriff</td><td>John  Castellano</td><td>R</td><td>Sheriff  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201462</td><td>John Tracy</td><td>John  Tracy</td><td>R</td><td>Associate Commissioner - Eastern District  - Randolph County</td><td>A</td>
+		</tr><tr>
+			<td>C201264E</td><td>Joseph Civettini</td><td>Joseph Civettini</td><td>G</td><td>State Treasurer  - Office of the State Treasurer</td><td>A</td>
+		</tr><tr>
+			<td>A201395</td><td>Josh Dennis 2020 Coroner Campaign</td><td>Joshua Dennis</td><td>R</td><td>Coroner  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>C201222</td><td>Joshua Dunne for Missouri</td><td>Joshua Dunne</td><td>D</td><td>State Representative - District 60 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201156</td><td>Josie Grillas for St Louis</td><td>Joanna Grillas</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C191078</td><td>Justin Aldred For Boone</td><td>Justin Aldred</td><td>D</td><td>Associate Commissioner - District 1 (Southern) - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>C180733</td><td>KaranPujji.com</td><td>Karan Pujji</td><td>R</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180037</td><td>KarlaEslingerForSenate.com</td><td>Karla Eslinger</td><td>R</td><td>State Senator - District 33 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201567</td><td>Karlin Breshears for Saline County Auditor</td><td>Karlin Breshears</td><td>R</td><td>Auditor  - Saline County</td><td>A</td>
+		</tr><tr>
+			<td>A201325</td><td>Kary Buckley for Commissioner</td><td>Kary  Buckley </td><td>R</td><td>Associate Commissioner  - St. Francois County</td><td>A</td>
+		</tr><tr>
+			<td>A201368</td><td>Kater For Commissioner 2020</td><td>Roy Kater</td><td>R</td><td>Associate Commissioner  - St. Francois County</td><td>A</td>
+		</tr><tr>
+			<td>C201251</td><td>Kelley Dragoo Committee to Elect</td><td>Kelley Dragoo</td><td>G</td><td>Lieutenant Governor  - Office of the Lieutenant Governor</td><td>A</td>
+		</tr><tr>
+			<td>C190851</td><td>Kelli Dunaway for County Council</td><td>Kelli Dunaway</td><td>D</td><td>County Council - District 2 - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A201207</td><td>Kendra Willis Hicks for Camden County Treasurer</td><td>Kendra Willis Hicks</td><td>R</td><td>Treasurer  - Camden County</td><td>A</td>
+		</tr><tr>
+			<td>C201187</td><td>Kenneth Mohr for Boone County Assessor</td><td>Kenneth Mohr</td><td>D</td><td>Assessor  - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>A201400</td><td>Kenneth Mooney for Bates County</td><td>Kenneth Mooney</td><td>R</td><td>Associate Commissioner  - Bates County</td><td>A</td>
+		</tr><tr>
+			<td>C201274E</td><td>Kevin C Babcock </td><td>Kevin Babcock</td><td>L</td><td>Attorney General  </td><td>A</td>
+		</tr><tr>
+			<td>C180696</td><td>Kiehne For Missouri</td><td>John Kiehne</td><td>D</td><td>State Representative - District 110 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201520</td><td>Kristina Leininger</td><td>Kristina Leininger</td><td>D</td><td>Associate Commissioner  - Phelps County</td><td>A</td>
+		</tr><tr>
+			<td>C180004</td><td>LaDonna Appelbaum For Missouri</td><td>LaDonna Appelbaum</td><td>D</td><td>State Representative - District 71 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131092</td><td>Lavender For State Senate</td><td>Deb Lavender</td><td>D</td><td>State Senator - District 15 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201231</td><td>Lee Hilty for Sheriff</td><td>Lee Hilty</td><td>R</td><td>Sheriff  - St. Clair County</td><td>A</td>
+		</tr><tr>
+			<td>C201195</td><td>Leighton For MO</td><td>Andrew Leighton</td><td>D</td><td>State Representative - District 147 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180602</td><td>Leslie For Governor</td><td>Casey Leslie</td><td>I</td><td>Governor - State of Missouri  - Office of the Governor</td><td>T</td>
+		</tr><tr>
+			<td>A201497</td><td>Linda Coleman for Ray County Assessor</td><td>Linda Coleman</td><td>D</td><td>Assessor  - Ray County</td><td>A</td>
+		</tr><tr>
+			<td>A201292</td><td>Lindley for Coroner</td><td>J. Scott Lindley</td><td>D</td><td>Coroner  - Livingston County</td><td>A</td>
+		</tr><tr>
+			<td>A151190</td><td>Louis (Louie) Gregoire For Sheriff</td><td>Louis (Louie) Gregoire</td><td>R</td><td>Sheriff  - Miller County</td><td>A</td>
+		</tr><tr>
+			<td>C190845</td><td>Maggie Nurrenbern for Missouri</td><td>Margaret &quot;Maggie&quot; Nurrenbern</td><td>D</td><td>State Representative - District 15 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180242</td><td>Manlove For Missouri</td><td>Ashley Manlove</td><td>D</td><td>State Representative - District 26 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201279</td><td>Manring4MO128</td><td>Marvin Manring</td><td>D</td><td>State Representative - District 128 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201322</td><td>Marcy Oerly for Assessor</td><td>Marcy Oerly</td><td>R</td><td>Assessor  - Moniteau County</td><td>A</td>
+		</tr><tr>
+			<td>C201234</td><td>Mark Bliss for Senate</td><td>Mark Bliss</td><td>L</td><td>State Senator - District 21 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201472</td><td>Marr for Eastern Commissioner</td><td>John Marr</td><td>R</td><td>Associate Commissioner  - Johnson County</td><td>A</td>
+		</tr><tr>
+			<td>C201238</td><td>Matt Bell for Saint Louis</td><td>Matthew Bell</td><td>D</td><td>Committeeman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A161061</td><td>MATT OLLER FOR SHERIFF</td><td>MATT OLLER</td><td>R</td><td>Sheriff  - Audrain County</td><td>A</td>
+		</tr><tr>
+			<td>C121452</td><td>MCCREERY FOR MISSOURI</td><td>TRACY MCCREERY</td><td>D</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C141259</td><td>McDaniel For State Representative</td><td>Andrew McDaniel</td><td>R</td><td>State Representative - District 150 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191055</td><td>McDonough for Judge</td><td>W. Christopher McDonough</td><td>R</td><td>Associate Circuit Judge  - St. Charles County</td><td>A</td>
+		</tr><tr>
+			<td>C201442</td><td>McEvoy for Commissioner</td><td>Lydia McEvoy</td><td>R</td><td>Associate Commissioner  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C180125</td><td>McGirl For State Rep</td><td>Michael McGirl</td><td>R</td><td>State Representative - District 118 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190821</td><td>McKelvey for Judge</td><td>Rebeca  McKelvey</td><td>R</td><td>Circuit Judge  </td><td>A</td>
+		</tr><tr>
+			<td>C201176</td><td>McKinney in the House</td><td>Brenda McKinney</td><td>D</td><td>State Representative - District 158 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201283</td><td>Meyer for Southern Commissioner</td><td>Thomas Meyer</td><td>R</td><td>Associate Commissioner  - Warren County</td><td>A</td>
+		</tr><tr>
+			<td>C201384</td><td>Michael Hebron - A Voice For All </td><td>Michael  Hebron</td><td>R</td><td>State Senator - District 5 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201358</td><td>Michael L Johnson for State Rep</td><td>Michael Johnson</td><td>D</td><td>State Representative - District 23 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201553</td><td>Mike Backfisch Jr for Commissioner</td><td>Mike  Backfisch</td><td>R</td><td>Associate Commissioner  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201339</td><td>Mike Barton for Ripley County Sheriff</td><td>Mike Barton</td><td>R</td><td>Sheriff  - Ripley County</td><td>T</td>
+		</tr><tr>
+			<td>C201267E</td><td>Mike Copeland</td><td>Mike  Copeland</td><td>L</td><td>State Representative - District  107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201372E</td><td>Mike Englert</td><td>Mike Englert</td><td>D</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C201435</td><td>Mike Englert for State Representative</td><td>Mike  Englert</td><td>D</td><td>State Representative - District 20 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201431</td><td>Mike Gras for St. Louis</td><td>Michael Gras</td><td>D</td><td>Committeeman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C201244E</td><td>Mike Lind</td><td>Mike Lind</td><td>D</td><td>State Representative - District 155 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201340E</td><td>Mike Lindley</td><td>Mike  Lindley</td><td>D</td><td>State Representative - District 145 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C131041</td><td>Mike Moon For Missouri</td><td>Mike Moon</td><td>R</td><td>State Senator - District 29 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201410</td><td>Mike Thomas for Sheriff, Committee to Elect</td><td>Michael Thomas</td><td>R</td><td>Sheriff  - Saline County</td><td>A</td>
+		</tr><tr>
+			<td>C201163</td><td>Mindi Smith for Missouri</td><td>Mindi Smith</td><td>D</td><td>State Representative - District 2 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161051</td><td>Missourians For Cody Smith</td><td>David Smith</td><td>R</td><td>State Representative - District 163 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180235</td><td>Missourians For Shields</td><td>Brenda Shields</td><td>R</td><td>State Representative - District 11 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171332</td><td>Missourians For Vic Allred</td><td>Victor Allred</td><td>R</td><td>State Representative - District 13 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201276</td><td>MO4Mickey Younghanz</td><td>Michael Younghanz</td><td>R</td><td>State Senator - District 17 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201440</td><td>Morrison For Sheriff</td><td>Edward Morrison</td><td>R</td><td>Sheriff  - Polk County</td><td>A</td>
+		</tr><tr>
+			<td>A201164</td><td>Mullen for Coroner</td><td>Tony Mullen</td><td>R</td><td>Coroner  - Taney County</td><td>T</td>
+		</tr><tr>
+			<td>C190756</td><td>Munzinger For Missouri 136</td><td>Jeff Munzinger</td><td>D</td><td>State Representative - District 136 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201266E</td><td>Nancy J. Ragan</td><td>Nancy Ragan</td><td>D</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>C201355</td><td>Nancy Schneider for County Council</td><td>Nancy Schneider</td><td>R</td><td>County Council  - St. Charles County</td><td>T</td>
+		</tr><tr>
+			<td>C201243E</td><td>Nathan Kline</td><td>Nathan  Kline</td><td>G</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C201124</td><td>Neighbors of Karisa Gilman-Hernandez</td><td>Karisa Gilman-Hernandez</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C201258E</td><td>Nicholas &quot;Nick&quot; Kasoff</td><td>Nicholas Kasoff</td><td>L</td><td>State Treasurer  - Office of the State Treasurer</td><td>A</td>
+		</tr><tr>
+			<td>C111091</td><td>Nicole Galloway For Missouri</td><td>Nicole Galloway</td><td>D</td><td>Governor  - Office of the Governor</td><td>A</td>
+		</tr><tr>
+			<td>A201423</td><td>Norma Elect Walker</td><td>Norma Walker</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C201383</td><td>Not For Sale-O&#39;Dell</td><td>Brady O&#39;Dell</td><td>D</td><td>State Representative - District 11 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190789</td><td>Nowlin For The 134th</td><td>Derrick Nowlin</td><td>D</td><td>State Representative - District 134 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171348</td><td>O&#39;DonnellForMissouri.com</td><td>Michael O&#39;Donnell</td><td>R</td><td>State Representative - District 95 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A121014</td><td>Owen For Sheriff</td><td>MARK OWEN</td><td>R</td><td>Sheriff  - Platte County</td><td>A</td>
+		</tr><tr>
+			<td>C141338</td><td>Page For Missouri</td><td>SAM PAGE</td><td>D</td><td>County Executive  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>A190863</td><td>Park4Platte</td><td>David Park</td><td>D</td><td>Associate Commissioner - District 2 - Platte County</td><td>A</td>
+		</tr><tr>
+			<td>A201300</td><td>Parks G Peterson For St. Francois County Treasurer</td><td>Parks  Peterson </td><td>R</td><td>Treasurer  - St. Francois County</td><td>A</td>
+		</tr><tr>
+			<td>C091129</td><td>Parson For Missouri</td><td>MIKE PARSON</td><td>R</td><td>Governor  - Office of the Governor</td><td>A</td>
+		</tr><tr>
+			<td>C141542</td><td>Patricia Pike For State Representative-126</td><td>Patricia Pike</td><td>R</td><td>State Representative - District 126 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180155</td><td>Patrons Of Jeff Porter</td><td>Jeff Porter</td><td>R</td><td>State Representative - District 42 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C161393</td><td>Patterson For Missouri</td><td>JONATHAN PATTERSON</td><td>R</td><td>State Representative - District 30 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201390</td><td>Paul Berry III for St. Louis County</td><td>Paul Berry</td><td>R</td><td>County Executive  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C180179</td><td>Paul Fehler For A Progressive 8th Ward</td><td>Paul Fehler</td><td>D</td><td>Committeeman - Ward 8 - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>C201322E</td><td>Paul T. Lehmann</td><td>Paul Lehmann</td><td>G</td><td>Secretary of State  - Office of the Secretary of State</td><td>A</td>
+		</tr><tr>
+			<td>C201392</td><td>Paul Venable</td><td>Paul Venable</td><td>C</td><td>Secretary of State  - Office of the Secretary of State</td><td>T</td>
+		</tr><tr>
+			<td>A201329</td><td>Paula Sims for Cooper County Public Administrator</td><td>Paula Sims</td><td>R</td><td>Public Administrator  - Cooper County</td><td>A</td>
+		</tr><tr>
+			<td>C201192</td><td>People to Elect Curtis Faulkner</td><td>Curtis Faulkner</td><td>R</td><td>County Council  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C191011</td><td>Perry For The People</td><td>Rickey Perry</td><td>R</td><td>State Representative - District 90 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151123</td><td>Peter Merideth For Mo Progress</td><td>Peter Merideth</td><td>D</td><td>State Representative - District 80 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190916</td><td>Pick Wick 4 Clay County Sheriff Wick Pickard</td><td>Wick Pickard</td><td>D</td><td>Sheriff  - Clay County</td><td>A</td>
+		</tr><tr>
+			<td>C141098</td><td>Pietzman For The People</td><td>Randy Pietzman</td><td>R</td><td>State Representative - District 41 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190848</td><td>Pitman For Missouri</td><td>Lee Pitman</td><td>R</td><td>State Representative - District 99 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C091206</td><td>Plocher For Missouri</td><td>DEAN PLOCHER</td><td>R</td><td>State Representative - District 89 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201481</td><td>Poke Committee</td><td>Tiffany Poke</td><td>I</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C180227</td><td>Pollitt For House Of Representatives</td><td>Bradley Pollitt</td><td>R</td><td>State Representative - District 52 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191070</td><td>Raffety For Assessor</td><td>Roger Raffety</td><td>R</td><td>Assessor  - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>C201416</td><td>Ragan for State Representative #62</td><td>Nancy Ragan</td><td>D</td><td>State Representative - District 62 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191053</td><td>Railsback for Missouri</td><td>Randall Railsback</td><td>R</td><td>State Representative - District 8 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201485</td><td>Randolph Ruzicka for County Commissioner</td><td>Randolph Ruzicka</td><td>R</td><td>Associate Commissioner  - Ste. Genevieve County</td><td>A</td>
+		</tr><tr>
+			<td>A201455</td><td>Ray County Democrats for Ron White</td><td>Ronald White</td><td>D</td><td>Associate Commissioner  - Ray County</td><td>A</td>
+		</tr><tr>
+			<td>A201021</td><td>Raymond L. James</td><td>Raymond James</td><td>D</td><td>Associate Commissioner - Eastern  - Johnson County</td><td>A</td>
+		</tr><tr>
+			<td>C161040</td><td>RAZER FOR MISSOURI</td><td>GREG RAZER</td><td>D</td><td>State Senator - District 7 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A171090</td><td>Re-Elect Finch for Sheriff</td><td>Dean Finch</td><td>D</td><td>Sheriff  - Wayne County</td><td>A</td>
+		</tr><tr>
+			<td>C201478E</td><td>Richard Mckie</td><td>Richard Mckie</td><td>&nbsp;</td><td>State Representative - District 29 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190888</td><td>Richard Orr for Missouri Senate District 23</td><td>Richard Orr</td><td>D</td><td>State Senator - District 23 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>C171166</td><td>Riggs For Missouri</td><td>Louis Riggs</td><td>R</td><td>State Representative - District 5 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C121330</td><td>Rizzo For Missouri</td><td>John Rizzo</td><td>D</td><td>State Senator - District 11 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201531</td><td>Robert D Lager for South District Commissioner</td><td>Robert Lager</td><td>D</td><td>Associate Commissioner  - Nodaway County</td><td>A</td>
+		</tr><tr>
+			<td>A201337</td><td>Robert T Kingery DBA Committee to Elect Tommy Kingery for Commissioner</td><td>Robert Kingery</td><td>R</td><td>Associate Commissioner  - Wright County</td><td>A</td>
+		</tr><tr>
+			<td>C151126</td><td>Roberts For St Louis</td><td>Steve Roberts </td><td>D</td><td>State Senator - District 5 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201438</td><td>Robertson for Southern Commissioner</td><td>Melinda  Robertson</td><td>R</td><td>Associate Commissioner  - Polk County</td><td>A</td>
+		</tr><tr>
+			<td>A201355</td><td>Roger Graves II for Pulaski County Coroner</td><td>Roger  Graves</td><td>R</td><td>Coroner  - Pulaski County</td><td>A</td>
+		</tr><tr>
+			<td>C180114</td><td>Rogers For Missouri</td><td>Wesley Rogers</td><td>D</td><td>State Representative - District 18 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171121</td><td>Rudy Veit For State Representative</td><td>Rudy Veit</td><td>R</td><td>State Representative - District 59 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201547</td><td>Rusty Dilbeck For Coroner Colton Dilbeck Treasurer </td><td>Rusty  Dilbeck</td><td>D</td><td>Coroner  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>C201260</td><td>Ryan Johnson for Cass County</td><td>Ryan Johnson</td><td>R</td><td>Associate Commissioner - Commission District 2 - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>C201219</td><td>Sander for Missouri</td><td>Chris Sander</td><td>R</td><td>State Representative - District 33 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201385</td><td>Sara Lampe for Greene County</td><td>Sara Lampe</td><td>D</td><td>Associate Commissioner  - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>C151198</td><td>Sarah Unsicker For State Representative</td><td>Sarah Unsicker</td><td>D</td><td>State Representative - District 91 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C071320</td><td>Schmitt For Missouri</td><td>Eric Schmitt</td><td>R</td><td>Attorney General  </td><td>A</td>
+		</tr><tr>
+			<td>C161381</td><td>Schnelting For Missouri</td><td>ADAM SCHNELTING</td><td>R</td><td>State Representative - District 104 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201040</td><td>Scott Childers for Ray County Sheriff</td><td>Scott  Childers</td><td>R</td><td>Sheriff  - Ray County</td><td>A</td>
+		</tr><tr>
+			<td>C201405</td><td>Scott Evans for Judge</td><td>Scott Evans</td><td>D</td><td>Associate Circuit Judge  - Cole County</td><td>A</td>
+		</tr><tr>
+			<td>C201342</td><td>Sean Smith for Missouri</td><td>Sean Smith</td><td>R</td><td>State Representative - District 35 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201241</td><td>Semple For State Assembly</td><td>Sarah Semple</td><td>R</td><td>State Representative - District 132 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190938</td><td>Sharp for House</td><td>Mark Sharp</td><td>D</td><td>State Representative - District 36 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171336</td><td>Sharpe For Rep</td><td>Gregory Sharpe</td><td>R</td><td>State Representative - District 4 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201306</td><td>Simmons 4 House</td><td>Connie Simmons</td><td>D</td><td>State Representative - District 53 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171262</td><td>Southeast Missourians For Morse</td><td>Herman Morse</td><td>R</td><td>State Representative - District 151 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201369E</td><td>Stephen R. Johnson</td><td>Stephen Johnson</td><td>L</td><td>State Representative - District 88 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151167</td><td>Stephens For State Rep</td><td>Michael Stephens</td><td>R</td><td>State Representative - District 128 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C180739</td><td>SteveWest4Missouri</td><td>John West</td><td>R</td><td>State Representative - District 15 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201274</td><td>Stidham for Stoddard County</td><td>Brent Stidham</td><td>R</td><td>Coroner  - Stoddard County</td><td>A</td>
+		</tr><tr>
+			<td>C201273</td><td>Suggs for Committeeman</td><td>William Suggs</td><td>D</td><td>Committeeman  - City of St. Louis</td><td>A</td>
+		</tr><tr>
+			<td>A201243</td><td>Supporters of Grant Gillett</td><td>Grant Gillett</td><td>R</td><td>Sheriff  - Andrew County</td><td>A</td>
+		</tr><tr>
+			<td>A201215</td><td>Supporters of Rick Messerli</td><td>Rick Messerli</td><td>R</td><td>Associate Commissioner  - Moniteau County</td><td>A</td>
+		</tr><tr>
+			<td>A201538</td><td>Swearingen for Coroner</td><td>Gary Swearingen</td><td>R</td><td>Coroner  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>C190857</td><td>Tammy Harty for 33 District MO Senate</td><td>Tammy Harty</td><td>D</td><td>State Senator - District 33 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201550</td><td>Teri Powers for STL</td><td>Teri Powers</td><td>D</td><td>Committeewoman  - City of St. Louis</td><td>T</td>
+		</tr><tr>
+			<td>A201138</td><td>Terry Cole for Scott County Commissioner</td><td>Terry Cole</td><td>R</td><td>Associate Commissioner  - Scott County</td><td>A</td>
+		</tr><tr>
+			<td>A201310</td><td>Terry Milford Campaign</td><td>Terry Milford</td><td>R</td><td>Associate Commissioner - Western District - Chariton County</td><td>A</td>
+		</tr><tr>
+			<td>A201568</td><td>Tetteh For County Auditor</td><td>Jeron Tetteh</td><td>D</td><td>Auditor  - Saline County</td><td>A</td>
+		</tr><tr>
+			<td>C190883</td><td>The Committee to Elect James Shackelford</td><td>James Shackelford</td><td>D</td><td>State Representative - District 16 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201189</td><td>The Committee to Elect Jimmy Bench</td><td>Jimmy Bench</td><td>R</td><td>Sheriff  - Pulaski County</td><td>T</td>
+		</tr><tr>
+			<td>C171401</td><td>The Committee To Elect Steve Butz</td><td>Steve Butz</td><td>D</td><td>State Representative - District 81 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191040</td><td>The Committee To Keep Up With Jones</td><td>Gabriel Jones</td><td>R</td><td>State Representative - District 93 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201126</td><td>The Seitz Conservative Coalition</td><td>Brian Seitz</td><td>R</td><td>State Representative - District 156 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201463E</td><td>Theo Ted Brown Sr</td><td>Theo Brown</td><td>W</td><td>Governor  - Office of the Governor</td><td>A</td>
+		</tr><tr>
+			<td>C201404E</td><td>Timothy Gartin</td><td>Timothy  Gartin</td><td>R</td><td>State Representative - District 78 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C151189</td><td>TOM DARROUGH FOR TREASURER</td><td>TOM DARROUGH</td><td>D</td><td>Treasurer  - Boone County</td><td>A</td>
+		</tr><tr>
+			<td>C201270</td><td>Tracey Chappell for Jackson County Prosecutor</td><td>Tracey Chappell</td><td>R</td><td>Prosecuting Attorney  - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>C201089</td><td>Tracy Grundy for Missouri</td><td>Tracy Grundy</td><td>D</td><td>State Representative - District 102 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201106</td><td>Travis Smith for Representative.com </td><td>Travis  Smith </td><td>R</td><td>State Representative - District 155 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A201399</td><td>TRW East Commish to Elect Tommy Wallace</td><td>Tommy Wallace</td><td>R</td><td>Associate Commissioner  - Pike County</td><td>A</td>
+		</tr><tr>
+			<td>C201381</td><td>Vern Cherry for Jeffco 111</td><td>Daniel Cherry</td><td>D</td><td>State Representative - District 111 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190810</td><td>Vicke Kepling For MO 135</td><td>Vicke Kepling</td><td>G</td><td>State Representative - District 135 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201370E</td><td>Vicki Riley</td><td>Vicki Riley</td><td>R</td><td>State Representative - District 21 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201328E</td><td>Victoria Witt Datt</td><td>Victoria Witt Datt</td><td>D</td><td>State Representative - District 107 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C191037</td><td>Vircks Election Committee</td><td>Brandt Vircks</td><td>R</td><td>State Representative - District 17 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201454</td><td>Vote 4 Bill Wayne 2020</td><td>William Wayne</td><td>L</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C201329</td><td>Vote Hotz 2020</td><td>Benjamin Hotz</td><td>R</td><td>County Municipal Judge  - Franklin County</td><td>A</td>
+		</tr><tr>
+			<td>A180521</td><td>Vote Montemurro</td><td>Shellie Montemurro</td><td>D</td><td>Committeewoman - Prairie Township - Jackson County</td><td>A</td>
+		</tr><tr>
+			<td>A201477</td><td>Vote Shegog</td><td>Farrakhan Shegog</td><td>D</td><td>Committeeman  - St. Louis County</td><td>A</td>
+		</tr><tr>
+			<td>C190852</td><td>Voters for Patty Lewis</td><td>Patricia Lewis</td><td>D</td><td>State Representative - District 25 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C171282</td><td>Washington For Senate 9</td><td>Barbara  Washington</td><td>D</td><td>State Senator - District 9 - Missouri State Senate</td><td>A</td>
+		</tr><tr>
+			<td>A201518</td><td>Wayne Hendrix Election Fund</td><td>Wayne Hendrix</td><td>D</td><td>Associate Commissioner  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>C180717</td><td>Webb For House Rep</td><td>Helena Webb</td><td>D</td><td>State Representative - District 100 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>A200990</td><td>Weber for Sheriff</td><td>Jeff Weber</td><td>R</td><td>Sheriff  - Cass County</td><td>A</td>
+		</tr><tr>
+			<td>A201480</td><td>Wendy W. Howe for Public Administrator</td><td>Wendy Howe</td><td>R</td><td>Public Administrator  - Marion County</td><td>A</td>
+		</tr><tr>
+			<td>C201200</td><td>Wes Zongker for County Commissioner</td><td>Wes Zongker</td><td>D</td><td>Associate Commissioner  - Greene County</td><td>A</td>
+		</tr><tr>
+			<td>A201556</td><td>West Comm Wilson</td><td>Arnold Wilson</td><td>D</td><td>Associate Commissioner  - Johnson County</td><td>A</td>
+		</tr><tr>
+			<td>A201557</td><td>White For Coroner</td><td>Donald White</td><td>I</td><td>Coroner  - Barry County</td><td>A</td>
+		</tr><tr>
+			<td>C201262E</td><td>William Truman (Bill) Wayne</td><td>William  Wayne</td><td>L</td><td>State Representative - District 51 - Missouri House of Representatives</td><td>T</td>
+		</tr><tr>
+			<td>A161018</td><td>Wood For Commissioner</td><td>DAGMAR WOOD</td><td>R</td><td>Associate Commissioner - District 1 - Platte County</td><td>A</td>
+		</tr><tr>
+			<td>C171362</td><td>Wright For Missouri</td><td>Dale Wright</td><td>R</td><td>State Representative - District 116 - Missouri House of Representatives</td><td>A</td>
+		</tr><tr>
+			<td>C190897</td><td>Yvonne Reeves Chong for Us Committee</td><td>Yvonne Chong</td><td>D</td><td>State Representative - District 122 - Missouri House of Representatives</td><td>A</td>
+		</tr>
+	</table>
