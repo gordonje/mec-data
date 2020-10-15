@@ -51,7 +51,7 @@ previous_receipts:
   form:
     section: Receipts
     box: 1b
-    label: TOTAL RECEIPTS FOR THIS ELECTION PREVIOUSLY REPORTED
+    label: Total Receipts For This Election Previously Reported
     instructions: From item 9 of your LAST Report Summary enter the total receipts for this election that your committee has previously reported.
 
 contributions_received:
@@ -60,7 +60,7 @@ contributions_received:
   form:
     section: Receipts
     box: 2a
-    label: ALL MONETARY CONTRIBUTIONS RECEIVED THIS PERIOD
+    label: All Monetary Contributions Received This Period
     instructions: From Item 22 of Form CD1 for this reporting period, enter the total of all monetary contributions received.
 
 loans_received:
@@ -69,7 +69,7 @@ loans_received:
   form:
     section: Receipts
     box: 3a
-    label: ALL LOANS RECEIVED THIS PERIOD
+    label: All Loans Received This Period
     instructions: From Item 20 of Form CD1 for this reporting period, enter the total of all loans received.
 
 misc_receipts:
@@ -78,17 +78,17 @@ misc_receipts:
   form:
     section: Receipts
     box: 4a
-    label: MISCELLANEOUS RECEIPTS THIS PERIOD
-    instructions: Enter the total amount of any receipts to your committee from sources other than contributions received. Such sources can include interest from interest bearing accounts (from committee records) and interest or dividends from investments (from item 12 Form CD2), intra-campaign transfers from one candidate committee to another candidate committee controlledby the same candidate must be included in this amount.  If such transfers are included, attach a listing, by name and address of the committee, date and amount of the transfer, to this report. This amount should not include any credits on loans received by your committee.
+    label: Miscellaneous Receipts This Period
+    instructions: Enter the total amount of any receipts to your committee from sources other than contributions received. Such sources can include interest from interest bearing accounts (from committee records) and interest or dividends from investments (from item 12 Form CD2), intra-campaign transfers from one candidate committee to another candidate committee controlledby the same candidate must be included in this amount. If such transfers are included, attach a listing, by name and address of the committee, date and amount of the transfer, to this report. This amount should not include any credits on loans received by your committee.
 
 receipts_subtotal:
   source_column: " Receipts Subtotal"
   dtype: float
   form:
     section: Receipts
-    box: 5a
-    label: SUBTOTAL MONETARY RECEIPTS THIS PERIOD (SUM 2A + 3A + 4A)
-    instructions: Add the amounts entered for Items 2A, 3A, and 4A and enter the total. This reflects total monetary receipts for this reporting period. 
+    box: 7a
+    label: Total All Receipts This Period (Sum 5A + 6A)
+    instructions: Add the amounts entered for Items 5A and 6A and enter the total. This reflects total receipts for this reporting period.
 
 in_kind_contributions_received:
   source_column: "In-Kind Contributions"
@@ -96,7 +96,7 @@ in_kind_contributions_received:
   form:
     section: Receipts
     box: 6a
-    label: IN-KIND CONTRIBUTIONS RECEIVED THIS PERIOD
+    label: In-kind Contributions Received This Period
     instructions: From Item 21 of Form CD1 for this reporting period, enter the total of in-kind contributions received this reporting period.
 
 total_receipts_this_election:
@@ -105,7 +105,7 @@ total_receipts_this_election:
   form:
     section: Receipts
     box: 8b
-    label: TOTAL ALL RECEIPTS THIS ELECTION (SUM 1B + 7A - 8A)
+    label: Total All Receipts This Election (Sum 1B + 7A)
     instructions: Add the amounts entered for Item 1B and 7A, then subtract the amount entered for Item 8A and enter the total. This reflects total receipts for this election to date.
 
 previous_expenditures:
@@ -113,17 +113,17 @@ previous_expenditures:
   dtype: float
   form:
     section: Expenditures
-    box: 10b
-    label: TOTAL EXPENDITURES FOR THIS ELECTION PREVIOUSLY REPORTED
-    instructions: From Item 15 of your last Report Summary, enter the total expenditures your committee has previously reported for this election.
+    box: 9b
+    label: Total Expenditures for this election previously reported
+    instructions: From Item 14 of your last Report Summary, enter the total expenditures your committee has previously reported for this election.
 
 cash_or_check_expenditures:
   source_column: "Cash or Check Expenditures"
   dtype: float
   form:
     section: Expenditures
-    box: 11a
-    label: EXPENDITURES MADE BY CASH OR CHECK THIS PERIOD
+    box: 10a
+    label: Expenditures made by cash or check this period
     instructions: From Item 16 of Form CD3 for this reporting period, enter the total expenditures made by check or in cash this period.
 
 in_kind_expenditures:
@@ -131,8 +131,8 @@ in_kind_expenditures:
   dtype: float
   form:
     section: Expenditures
-    box: 12a
-    label: IN-KIND EXPENDITURES MADE THIS PERIOD
+    box: 11a
+    label: In-Kind Expenditures made this period
     instructions: From Item 18 of Form CD3 for this reporting period, enter the total of in-kind expenditures for this reporting period.
 
 credit_expenditures:
@@ -140,8 +140,8 @@ credit_expenditures:
   dtype: float
   form:
     section: Expenditures
-    box: 13
-    label: DEBTS INCURRED THIS PERIOD (NOT INCLUDING LOANS)
+    box: 12a
+    label: Expenditures incurred this period (not including loans) including payments made by credit card (line 17 CD3)
     instructions: From Item 17 of Form CD3 for this reporting period, enter the total of expenditures incurred but not paid during the period.
 
 expenditure_subtotal:
@@ -149,44 +149,44 @@ expenditure_subtotal:
   dtype: float
   form:
     section: Expenditures
-    box: 14
-    label: TOTAL ALL EXPENDITURES MADE THIS PERIOD (SUM 11A + 12A + 13A)
-    instructions: Add the amounts entered for Items 11A, 12A, and 13A and enter the total. This reflects total expenditures made this period.
+    box: 13a
+    label: Total All expenditures made this period (Sum 10A + 11A + 12A)  Including payments made by Credit Card (line 17 CD3)
+    instructions: Add the amounts entered for Items 10A, 11A, and 12A and enter the total. This reflects total expenditures made this period.
 
 total_expenditures:
   source_column: "Total Expenditures"
   dtype: float
   form:
     section: Expenditures
-    box: 15
-    label: TOTAL EXPENDITURES THIS ELECTION (SUM 10B + 14A)
-    instructions: Add the amount entered for Items 10B and 14A and enter the total. This reflects total expenditures for this election.
+    box: 14b
+    label: Total Expenditures This Election (Sum 9B + 13A)
+    instructions: Add the amount entered for Items 9B and 13A and enter the total. This reflects total expenditures for this election.
 
 previous_contributions:
   source_column: "Previous Contributions"
   dtype: float
   form:
     section: Contributions Made
-    box: 16
-    label: TOTAL CONTRIBUTIONS MADE FOR THIS ELECTION PREVIOUSLY REPORTED
-    instructions: From Item 20 of your last Report Summary, enter the total contributions made and previously reported for this election.
+    box: 15b
+    label: Total Contributions Made For This Election Previously Reported
+    instructions: From Item 19 of your last Report Summary, enter the total contributions made and previously reported for this election.
 
 cash_check_contributions:
   source_column: "Cash/Check Contributions"
   dtype: float
   form:
     section: Contributions Made
-    box: 17
-    label: ALL MONETARY CONTRIBUTIONS MADE THIS PERIOD
-    instructions: From Item 25 of Form CD3 for this reporting period, enter the amount of monetary contributions made for this period.
+    box: 16a
+    label: All Contributions Made This Period (25A or 25B of CD3), Cash/Check
+    instructions: null
 
 credit_contributions:
   source_column: "Credit Contributions"
   dtype: float
   form:
-    section: null
-    box: null
-    label: null
+    section: Contributions Made
+    box: 16b
+    label: All Contributions Made This Period (25A or 25B of CD3), Credit Card
     instructions: null
 
 in_kind_contributions_made:
@@ -194,8 +194,8 @@ in_kind_contributions_made:
   dtype: float
   form:
     section: Contributions Made
-    box: 18
-    label: ALL IN-KIND CONTRIBUTIONS MADE THIS PERIOD
+    box: 17a
+    label: All In-Kind Contributions Made This Period
     instructions: From Item 28 of Form CD3 for this reporting period, enter the amount of in-kind contributions made during this period.
 
 contribution_subtotal:
@@ -203,17 +203,17 @@ contribution_subtotal:
   dtype: float
   form:
     section: Contributions Made
-    box: 19
-    label: TOTAL ALL CONTRIBUTIONS MADE THIS PERIOD (SUM 17A + 18A)
-    instructions: Add the amounts entered for Items 17A and 18A, and enter the total. This reflects total contributions made for this reporting period.
+    box: 18a
+    label: Total Contributions Made This Period (Sum 16A + 17A)
+    instructions: Add the amounts entered for Items 16A and 17A, and enter the total. This reflects total contributions made for this reporting period.
 
 total_contributions:
   source_column: "Total Contributions"
   dtype: float
   form:
     section: Contributions Made
-    box: 20
-    label: TOTAL ALL CONTRIBUTIONS MADE THIS ELECTION (SUM 16B + 19A)
+    box: 19b
+    label: Total All Contributions Made This Election (Sum 15B + 18A)
     instructions: Add the amounts entered for items 16B and 19A and enter the total. This reflects total contributions made during the election period.
 
 loan_disbursements:
@@ -221,17 +221,17 @@ loan_disbursements:
   dtype: float
   form:
     section: Other Disbursements
-    box: 21
-    label: FUNDS USED FOR REPAYING LOANS THIS PERIOD
-    instructions: From Item 19 of Form CD3 for this reporting period, enter the amount used for repaying loans (this is the same amount entered for Item 8 of this form).
+    box: 20a
+    label: Funds Used For Paying Loans This Period Including Credit Card Payments
+    instructions: null
 
 disbursements_payments:
   source_column: "Disbursements Payments"
   dtype: float
   form:
     section: Other Disbursements
-    box: 22
-    label: PAYMENTS THIS PERIOD ON PREVIOUSLY REPORTED DEBTS INCURRED
+    box: 21a
+    label: Payments This Period on Prev Reported Expend Incurred (Paid by Cash/Check Only)
     instructions: From your committee records, enter the amount which was used during this reporting period to repay debts which were incurred and reported previous to this reporting period.
 
 misc_disbursements:
@@ -239,8 +239,8 @@ misc_disbursements:
   dtype: float
   form:
     section: Other Disbursements
-    box: 23
-    label: ANY MISCELLANEOUS DISBURSEMENT NOT REPORTED ELSEWHERE
+    box: 22a
+    label: Any Miscellaneous Disbursement Not Reported Elsewhere
     instructions: From committee records enter the amount of any disbursement not listed as an expenditure or contribution made. This amount must include any intra-campaign transfers from one candidate committee to another candidate committee controlled by the same candidate. if such transfers are included, attach a listing, by name and address of the committee, date and amount of the transfer, to this report.
 
 total_disbursements:
@@ -248,26 +248,26 @@ total_disbursements:
   dtype: float
   form:
     section: Other Disbursements
-    box: 24
-    label: TOTAL OTHER DISBURSEMENTS THIS PERIOD (SUM 21A + 22A + 23A)
-    instructions: Add the amounts entered for Items 21A, 22A and 23A and enter the total. This reflects total "other" disbursements for this period.
+    box: 23a
+    label: Total Other Disbursements This Period (Sum 20A + 21A + 22A)
+    instructions: Add the amounts entered for Items 20A, 21A and 22A and enter the total. This reflects total "other" disbursements for this period.
 
 starting_money_on_hand:
   source_column: "Starting Money on Hand"
   dtype: float
   form:
     section: Money On Hand
-    box: 25
-    label: MONEY ON HAND AT THE BEGINNING OFTHIS REPORTING PERIOD (INCLUDING FUNDS IN DEPOSITORY, CASH, SAVINGS ACCOUNTS AND ALL OTHER INVESTMENTS)
-    instructions: From Item 28 of your last Report Summary, enter the amount of money on hand at the beginning of this reporting period.
+    box: 24
+    label: Money On Hand at the beginning of this reporting period (Including funds in depository, cash, savings accounts and all other investments)
+    instructions: From Item 27 of your last Report Summary, enter the amount of money on hand at the beginning of this reporting period.
 
 monetary_receipts:
   source_column: " Monetary Receipts"
   dtype: float
   form:
     section: Money On Hand
-    box: 26
-    label: MONETARY RECEIPTS THIS PERIOD (FROM ITEM 5)
+    box: 25
+    label: Monetary Receipts this Period (From Item 5 - this page)
     instructions: From Item 5 of this Report Summary, enter the total monetary receipts for this reporting period.
 
 check_disbursements:
@@ -275,7 +275,7 @@ check_disbursements:
   dtype: float
   form:
     section: Money On Hand
-    box: 27a
+    box: 26a
     label: Disbursements By Check
     instructions: From committee records, enter the amount of monetary disbursements made this period by check.
 
@@ -284,7 +284,7 @@ cash_disbursements:
   dtype: float
   form:
     section: Money On Hand
-    box: 27b
+    box: 26b
     label: Disbursements By Cash
     instructions: From committee records, enter the amount of monetary disbursements made this period by cash.
 
@@ -293,35 +293,35 @@ total_monetary_disbursements:
   dtype: float
   form:
     section: Money On Hand
-    box: 27
-    label: MONETARY DISBURSEMENTS MADE THIS PERIOD (SUM 11 + 17 + 24)
-    instructions: Add Items 11A, 17A, and 24A and enter the total. This reflects total monetary disbursements made this reporting period.
+    box: 26
+    label: Monetary Disbursements Made This Period (Sum 10 + 16A + 23)
+    instructions: Add Items 10A, 16A, and 23A and enter the total. This reflects total monetary disbursements made this reporting period.
 
 ending_money_on_hand:
   source_column: "Ending Money on Hand"
   dtype: float
   form:
     section: Money On Hand
-    box: 28
-    label: MONEY ON HAND AT THE CLOSE OF THIS REPORTING PERIOD (SUM 25 + 26 - 27)
-    instructions: Add the amounts entered for Items 25 and 26, then subtract the amount entered for Item 27 and enter the total. This reflects the amount of money on hand at the end of this reporting period.
+    box: 27
+    label: Money On Hand at the close of this reporting period (SUM 24 + 25 - 26)
+    instructions: Add the amounts entered for Items 24 and 25, then subtract the amount entered for Item 26 and enter the total. This reflects the amount of money on hand at the end of this reporting period.
 
 outstanding_indebtedness:
   source_column: "Outstanding Indebtedness"
   dtype: float
   form:
     section: Indebtedness
-    box: 29
-    label: OUTSTANDING INDEBTEDNESS AT THE   BEGINNING OF THIS PERIOD
-    instructions: From Item 35 of your last Report Summary, enter the amount of indebtedness at the beginning of this reporting period.
+    box: 28
+    label: Outstanding Indebtedness at the beginning of this period
+    instructions: From Item 34 of your last Report Summary, enter the amount of indebtedness at the beginning of this reporting period.
 
 loans_received_item30:
   source_column: "Loans Recieved"
   dtype: float
   form:
     section: Indebtedness
-    box: 30
-    label: LOANS RECEIVED THIS PERIOD
+    box: 29
+    label: Loans Received This Period
     instructions: From Item 20 of Form CD1 for this reporting period, enter the amount of loans received during the period (same as Item 3 of this form).
 
 new_expenditures:
@@ -329,17 +329,17 @@ new_expenditures:
   dtype: float
   form:
     section: Indebtedness
-    box: 31
-    label: NEW DEBTS INCURRED THIS PERIOD
-    instructions: From Item 17 of Form CD3 for this reporting period, enter the amount of new debts incurred this period (same as Item 13 of this form).
+    box: 30a
+    label: New Expenditures Incurred This Period (include payments by Credit Card (Line 17 CD3)
+    instructions: null
 
 new_contributions:
   source_column: "New Contributions"
   dtype: float
   form:
-    section: null
-    box: null
-    label: null
+    section: Indebtedness
+    box: 30b
+    label: New Contributions Made by Credit Card (Line 25B CD3)
     instructions: null
 
 payments_made_on_loan:
@@ -347,18 +347,18 @@ payments_made_on_loan:
   dtype: float
   form:
     section: Indebtedness
-    box: 32
-    label: PAYMENTS MADE ON LOANS THIS PERIOD
-    instructions: From Item 19 of Form CD3 for this reporting period, enter the amount used for repaying loans this period (same as Items 21 and 8 of this form).
+    box: 31
+    label: Payments Made on Loans This Period
+    instructions: null
 
 debt_forgiven_on_loans:
   source_column: "Debt Forgiven on Loans"
   dtype: float
   form:
     section: Indebtedness
-    box: 33
-    label: CREDITS RECEIVED ON LOANS THIS PERIOD
-    instructions: From committee records, enter the amount of any credits received on loans during the period (i.e. loans forgiven or paid by someone else, in whole or in part).
+    box: 32
+    label: Debt Forgiven on Loans This Period
+    instructions: null
 
 total_indebtendness:
   source_column: "Total Indebtendness"
